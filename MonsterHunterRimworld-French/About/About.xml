@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Monster Hunter RimWorld - French Translation / Traduction Française</name>
+	<author>Traduction Communautaire</author>
+	<packageId>monsterhunterimworld.french</packageId>
+	<url>n/a</url>
+	<description>French translation for Monster Hunter RimWorld mod.
+
+Cette traduction française pour Monster Hunter RimWorld vous permet de profiter pleinement du mod dans la langue de Molière. Elle traduit tous les éléments du jeu : créatures, objets, incidents, interface et plus encore.
+
+=== ENGLISH ===
+This French translation mod for Monster Hunter RimWorld allows you to fully enjoy the mod in French. It translates all game elements: creatures, items, incidents, interface and more.
+
+=== FRANÇAIS ===
+Ce mod de traduction française pour Monster Hunter RimWorld traduit l'intégralité du contenu du mod original. Il se charge automatiquement après le mod principal et ne nécessite aucune configuration particulière.
+
+Contenu traduit :
+• Toutes les créatures et monstres
+• Objets, armes et équipements
+• Incidents et événements
+• Interface utilisateur
+• Descriptions et textes de saveur
+
+Installation :
+1. Assurez-vous que Monster Hunter RimWorld est installé
+2. Activez ce mod de traduction
+3. Placez-le APRÈS Monster Hunter RimWorld dans l'ordre de chargement
+4. Redémarrez le jeu pour appliquer la traduction
+
+Bon jeu et bonne chasse !</description>
+	<supportedVersions>
+		<li>1.3</li>
+		<li>1.4</li>
+		<li>1.5</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>AsGAlligator.MHRW</packageId>
+			<displayName>Monster Hunter RimWorld</displayName>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>AsGAlligator.MHRW</li>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>Ludeon.RimWorld.Ideology</li>
+		<li>Ludeon.RimWorld.Biotech</li>
+		<li>Ludeon.RimWorld.Anomaly</li>
+	</loadAfter>
+</ModMetaData>

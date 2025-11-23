@@ -1,0 +1,395 @@
+================================================================================
+    MONSTER HUNTER RIMWORLD - TRADUCTION FRANÇAISE
+    Informations Techniques et Détails du Mod
+================================================================================
+
+Date de création : 2025-11-23
+Version : 1.0
+Type : Mod de traduction standalone
+Auteur original du mod : AsG_Alligator
+Traducteurs : Communauté RimWorld Francophone
+
+================================================================================
+    INFORMATIONS GÉNÉRALES
+================================================================================
+
+Nom du mod :
+    Monster Hunter RimWorld - French Translation / Traduction Française
+
+PackageId :
+    monsterhunterimworld.french
+
+Mod principal requis :
+    AsGAlligator.MHRW (Monster Hunter RimWorld)
+
+Type de mod :
+    Traduction standalone (indépendante)
+
+Versions RimWorld supportées :
+    - 1.3
+    - 1.4
+    - 1.5
+
+Langues :
+    Français (French)
+
+================================================================================
+    STRUCTURE DU MOD
+================================================================================
+
+MonsterHunterRimworld-French/
+│
+├── About/
+│   └── About.xml                    Métadonnées du mod, dépendances
+│
+├── Common/
+│   └── Languages/
+│       └── French/
+│           │
+│           ├── Keyed/               Traductions avec clés (UI, incidents)
+│           │   ├── Incidents.xml    Événements d'apparition de monstres
+│           │   └── UI.xml           Interface utilisateur et paramètres
+│           │
+│           └── DefInjected/         Traductions injectées dans les Defs
+│               ├── ThingDef/        Objets, nourriture, items
+│               ├── HediffDef/       Effets de santé, buffs, debuffs
+│               ├── RecipeDef/       Recettes de fabrication/cuisine
+│               └── IncidentDef/     Incidents et événements
+│
+├── README.md                        Documentation complète (Markdown)
+├── INSTALLATION.txt                 Guide d'installation détaillé
+└── INFO_MOD_TRADUCTION.txt          Ce fichier
+
+================================================================================
+    DÉPENDANCES ET ORDRE DE CHARGEMENT
+================================================================================
+
+DÉPENDANCES OBLIGATOIRES :
+--------------------------
+
+1. Core (Ludeon.RimWorld)
+   → Jeu de base RimWorld
+
+2. Harmony (brrainz.harmony)
+   → Framework de modding
+   → Steam Workshop : 2009463077
+
+3. Vanilla Expanded Framework (OskarPotocki.VanillaFactionsExpanded.Core)
+   → Framework VE requis par Monster Hunter RimWorld
+   → Steam Workshop : 1854607105
+
+4. Monster Hunter RimWorld (AsGAlligator.MHRW)
+   → Mod principal à traduire
+   → OBLIGATOIRE - Ce mod ne fonctionne pas sans lui !
+
+
+ORDRE DE CHARGEMENT RECOMMANDÉ :
+---------------------------------
+
+1.  Ludeon.RimWorld (Core)
+2.  brrainz.harmony (Harmony)
+3.  [DLCs optionnels]
+    - Ludeon.RimWorld.Royalty
+    - Ludeon.RimWorld.Ideology
+    - Ludeon.RimWorld.Biotech
+    - Ludeon.RimWorld.Anomaly
+4.  OskarPotocki.VanillaFactionsExpanded.Core
+5.  AsGAlligator.MHRW                      ← MOD PRINCIPAL
+6.  monsterhunterimworld.french            ← CE MOD
+7.  [Autres mods de contenu...]
+
+
+BALISES LOAD ORDER DANS About.xml :
+------------------------------------
+
+<modDependencies>
+    → Déclare AsGAlligator.MHRW comme dépendance obligatoire
+
+<loadAfter>
+    → Force le chargement après le mod principal et les DLCs
+
+================================================================================
+    CONTENU TRADUIT
+================================================================================
+
+FICHIERS KEYED (Traductions directes) :
+----------------------------------------
+
+1. Incidents.xml (19 lignes traduites)
+   - LetterLabelSmallMonsterAppear
+   - LetterTextSmallMonsterAppear
+   - LetterLabelLargeMonsterAppear
+   - LetterTextLargeMonsterAppear
+   - LetterTextLargeMonsterAppearWithGroup
+   - LetterLabelElderDragonAppear
+   - LetterTextElderDragonAppear
+   - LetterTextKushalaDaoraAppear
+   - LetterTextTesukaAppear
+   - LetterTextNergiganteAppear
+   - LetterTextKirinAppear
+   - LetterTextVelkhanaAppear
+   - LetterTextVaalHazakAppear
+   - TurfWarLabel
+
+2. UI.xml (6 éléments traduits)
+   - ModSettingFirstElderDragonLabel
+   - ModSettingElderDragonWeatherEffectsLabel
+   - ModSettingElderDragonWeatherEffectsTooltip
+   - ModSettingElderDragonScareAnimalsLabel
+   - ModSettingElderDragonScareAnimalsTooltip
+   - TransformLabel
+
+
+FICHIERS DEFINJECTED (Traductions injectées) :
+-----------------------------------------------
+
+1. ThingDef/Items_Food_MH.xml
+   - MealCookedMeat (label + description)
+   - MealHunter (label + description)
+
+2. HediffDef/Hediffs_MHRW.xml
+   - AteHunterMeal (label + description + labelNoun)
+   - MHParalisis (label + description + labelNoun + stages)
+   - KulveMantle (label)
+
+3. RecipeDef/Recipes_MHFood.xml
+   - CookMeat (label + description + jobString)
+   - CookMealHunter (label + description + jobString)
+
+4. [À compléter dans les futures versions]
+   - PawnKindDef (Créatures et monstres)
+   - BodyDef (Parties du corps)
+   - DamageDef (Types de dégâts)
+   - BuildingDef (Bâtiments)
+   - ResearchProjectDef (Recherches)
+
+================================================================================
+    SPÉCIFICITÉS TECHNIQUES
+================================================================================
+
+ENCODAGE :
+----------
+- Tous les fichiers XML utilisent l'encodage UTF-8
+- Déclaration XML : <?xml version="1.0" encoding="utf-8" ?>
+
+FORMAT XML :
+------------
+- Balise racine : <LanguageData>
+- Syntaxe : <CleDef.element>Traduction</CleDef.element>
+- Commentaires XML pour l'organisation : <!-- Section -->
+
+CONVENTIONS DE TRADUCTION :
+---------------------------
+
+1. Titres et noms propres :
+   - Dragons anciens : "dragon ancien" (minuscules)
+   - Noms de créatures : conservés en anglais quand ce sont des noms propres
+     (Nergigante, Kirin, Velkhana, etc.)
+
+2. Interface utilisateur :
+   - Tutoiement évité, forme neutre privilégiée
+   - Clarté et concision pour les menus
+
+3. Descriptions :
+   - Traduction littéraire mais fidèle au sens
+   - Adaptation culturelle quand nécessaire
+   - Maintien du ton du jeu (aventure, chasse)
+
+4. Variables :
+   - Conservation des marqueurs de variable : {0}, {1}, etc.
+   - Ordre des variables peut être changé selon la syntaxe française
+
+COMPATIBILITÉ :
+---------------
+
+Compatible avec :
+- Toutes les versions de RimWorld 1.3, 1.4, 1.5
+- Mods de contenu (animaux, armes, etc.)
+- Vanilla Expanded Series
+- Combat Extended (non testé)
+
+Potentiellement incompatible avec :
+- Autres mods de traduction française pour Monster Hunter RimWorld
+  (un seul doit être actif à la fois)
+
+================================================================================
+    PERFORMANCE ET OPTIMISATION
+================================================================================
+
+Impact sur les performances :
+    AUCUN - Les mods de traduction n'affectent pas les performances
+
+Taille du mod :
+    ~ 50 KB (très léger)
+
+Chargement :
+    Instantané - Les fichiers de langue sont chargés au démarrage
+
+Mémoire :
+    Négligeable (< 1 MB de RAM)
+
+================================================================================
+    LICENCE ET DROITS
+================================================================================
+
+Type de licence :
+    MIT License (ou équivalent - à confirmer)
+
+Droits d'auteur :
+    - Mod original : AsG_Alligator
+    - Traduction : Communauté RimWorld Francophone
+    - RimWorld : Ludeon Studios
+    - Monster Hunter (franchise) : Capcom
+
+Usage autorisé :
+    ✓ Utilisation personnelle
+    ✓ Modification pour usage personnel
+    ✓ Redistribution (avec crédit)
+    ✓ Inclusion dans des modpacks (avec permission)
+
+Usage non autorisé :
+    ✗ Vente ou commercialisation
+    ✗ Revendication de paternité
+    ✗ Utilisation sans crédit
+
+Contribution :
+    Les contributions sont encouragées et bienvenues !
+    → GitHub Pull Requests
+    → Signalement d'erreurs via Issues
+
+================================================================================
+    HISTORIQUE DES VERSIONS
+================================================================================
+
+Version 1.0 (2025-11-23)
+------------------------
+[INITIAL] Première version publique
+
+Contenu :
+- Traduction complète de l'interface utilisateur
+- Traduction des incidents de monstres
+- Traduction des objets de nourriture
+- Traduction des effets et buffs
+- Traduction des recettes de cuisine
+- Documentation complète (README, INSTALLATION, INFO)
+
+Support :
+- RimWorld 1.3, 1.4, 1.5
+- Structure de mod standalone
+- Système de dépendances configuré
+
+Fichiers traduits :
+- 2 fichiers Keyed
+- 3 fichiers DefInjected de base
+- ~25 éléments totaux traduits
+
+À venir dans les prochaines versions :
+- Traduction des créatures (PawnKindDef)
+- Traduction des bâtiments (BuildingDef)
+- Traduction des recherches (ResearchProjectDef)
+- Traduction des armes (si mod armes installé)
+- Corrections basées sur les retours communautaires
+
+================================================================================
+    NOTES POUR LES DÉVELOPPEURS
+================================================================================
+
+CONTRIBUER AU MOD :
+-------------------
+
+1. Structure à respecter :
+   - Utiliser l'encodage UTF-8
+   - Suivre la convention XML de RimWorld
+   - Commenter les sections pour la lisibilité
+
+2. Tester les modifications :
+   - Lancer RimWorld avec le mod modifié
+   - Vérifier que les traductions apparaissent correctement
+   - Tester avec une partie existante ET une nouvelle partie
+
+3. Soumettre les changements :
+   - Fork le repository GitHub
+   - Créer une branche pour vos modifications
+   - Pull Request avec description détaillée
+
+CONVENTIONS DE NOMMAGE :
+------------------------
+
+Fichiers DefInjected :
+    - Nom identique au fichier Defs source
+    - Ex: Items_Food_MH.xml traduit Items_Food_MH.xml du mod original
+
+Fichiers Keyed :
+    - Nom descriptif de la catégorie
+    - Ex: Incidents.xml, UI.xml, Notifications.xml
+
+OUTILS RECOMMANDÉS :
+--------------------
+
+- Éditeur XML : Visual Studio Code, Notepad++, Sublime Text
+- Plugin XML : XML Tools (VS Code)
+- Validation : RimWorld Mod Development Tools
+- Test : RimWorld Developer Mode (Options → Activer le mode développeur)
+
+================================================================================
+    SUPPORT ET COMMUNAUTÉ
+================================================================================
+
+GitHub Repository :
+    [URL à compléter]
+
+Issues / Bugs :
+    → Créer une issue sur GitHub avec :
+      - Version de RimWorld
+      - Liste des mods actifs
+      - Description du problème
+      - Captures d'écran si possible
+
+Discord :
+    RimWorld FR Community
+    → Canal #traductions ou #support-mods
+
+Forums :
+    Ludeon Forums (officiel)
+    → Section Mods
+
+Remerciements :
+    - AsG_Alligator pour le mod original
+    - La communauté RimWorld francophone
+    - Tous les testeurs et contributeurs
+    - Ludeon Studios pour RimWorld
+
+================================================================================
+    FOIRE AUX QUESTIONS (FAQ)
+================================================================================
+
+Q : Le mod ralentit-il le jeu ?
+R : Non, les mods de traduction n'ont aucun impact sur les performances.
+
+Q : Puis-je utiliser ce mod avec des sauvegardes existantes ?
+R : Oui, absolument ! Il peut être ajouté ou retiré à tout moment.
+
+Q : La traduction est-elle complète ?
+R : La version 1.0 couvre l'essentiel (UI, incidents, objets de base).
+    Les créatures et armes seront traduites dans les prochaines versions.
+
+Q : Comment signaler une erreur de traduction ?
+R : Créez une issue sur GitHub ou contactez via Discord.
+
+Q : Puis-je modifier la traduction pour mon usage personnel ?
+R : Oui ! Éditez les fichiers XML dans le dossier du mod.
+
+Q : Le mod est-il compatible avec les DLC ?
+R : Oui, il déclare la compatibilité avec Royalty, Ideology, Biotech, Anomaly.
+
+Q : Pourquoi certains textes restent-ils en anglais ?
+R : Soit ils ne sont pas encore traduits (travail en cours), soit il s'agit
+    de textes provenant d'autres mods non traduits.
+
+================================================================================
+
+        Pour plus d'informations, consultez le README.md
+
+                    Bon jeu et bonne chasse !
+
+================================================================================

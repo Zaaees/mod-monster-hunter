@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Buffs and Effects / Buffs et effets -->
+	<AteHunterMeal.label>renforcé par un repas de chasseur</AteHunterMeal.label>
+	<AteHunterMeal.description>Un bonus fourni par la consommation d'un repas de chasseur. Augmente les capacités de diverses manières.</AteHunterMeal.description>
+	<AteHunterMeal.labelNoun>bonus de repas de chasseur</AteHunterMeal.labelNoun>
+
+	<!-- Paralysis / Paralysie -->
+	<MHParalisis.label>paralysie</MHParalisis.label>
+	<MHParalisis.description>Paralysie causée par du venin.</MHParalisis.description>
+	<MHParalisis.labelNoun>paralysie</MHParalisis.labelNoun>
+	<MHParalisis.stages.0.label>mineure</MHParalisis.stages.0.label>
+
+	<!-- Kulve Mantle / Manteau de Kulve -->
+	<KulveMantle.label>manteau doré</KulveMantle.label>
+
+</LanguageData>

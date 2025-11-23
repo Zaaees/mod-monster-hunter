@@ -1,0 +1,339 @@
+================================================================================
+    MONSTER HUNTER RIMWORLD - TRADUCTION FRANÇAISE
+    Guide d'Installation Détaillé
+================================================================================
+
+Version : 1.0
+Date : 2025-11-23
+Compatible avec RimWorld 1.3, 1.4, 1.5
+
+================================================================================
+    TABLE DES MATIÈRES
+================================================================================
+
+    1. PRÉREQUIS
+    2. INSTALLATION MANUELLE
+    3. INSTALLATION STEAM WORKSHOP (si disponible)
+    4. CONFIGURATION DE L'ORDRE DE CHARGEMENT
+    5. VÉRIFICATION DE L'INSTALLATION
+    6. DÉPANNAGE
+    7. SUPPORT
+
+================================================================================
+    1. PRÉREQUIS
+================================================================================
+
+Avant d'installer ce mod de traduction, vous DEVEZ avoir :
+
+    [✓] RimWorld version 1.3, 1.4 ou 1.5
+    [✓] Le mod "Monster Hunter RimWorld" (AsGAlligator.MHRW)
+    [✓] Le mod "Harmony" (brrainz.harmony)
+    [✓] Le mod "Vanilla Expanded Framework"
+
+IMPORTANT : Ce mod de traduction ne fonctionnera PAS sans le mod principal
+           "Monster Hunter RimWorld" installé et activé !
+
+================================================================================
+    2. INSTALLATION MANUELLE
+================================================================================
+
+Étape 1 : LOCALISER VOTRE DOSSIER MODS
+---------------------------------------
+
+Trouvez votre dossier Mods selon votre système d'exploitation :
+
+    • WINDOWS :
+      C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\
+
+    • MAC OS :
+      ~/Library/Application Support/Steam/steamapps/common/RimWorld/Mods/
+
+    • LINUX :
+      ~/.steam/steam/steamapps/common/RimWorld/Mods/
+
+    • STEAM (Version non-Steam) :
+      [Votre dossier RimWorld]\Mods\
+
+
+Étape 2 : EXTRAIRE L'ARCHIVE
+-----------------------------
+
+    1. Téléchargez le fichier "MonsterHunterRimworld-French.zip"
+
+    2. Extrayez le contenu dans le dossier Mods
+
+    3. Assurez-vous d'avoir cette structure :
+
+       Mods/
+       └── MonsterHunterRimworld-French/
+           ├── About/
+           │   └── About.xml
+           └── Common/
+               └── Languages/
+                   └── French/
+                       ├── Keyed/
+                       └── DefInjected/
+
+
+Étape 3 : ACTIVER LE MOD DANS RIMWORLD
+---------------------------------------
+
+    1. Lancez RimWorld
+
+    2. Dans le menu principal, cliquez sur "MODS"
+
+    3. Recherchez "Monster Hunter RimWorld - French Translation"
+       dans la liste des mods disponibles
+
+    4. Cochez la case pour ACTIVER le mod
+
+    5. IMPORTANT : Configurez l'ordre de chargement (voir Section 4)
+
+    6. Cliquez sur "Fermer" en bas de l'écran
+
+    7. REDÉMARREZ RimWorld pour appliquer les changements
+
+================================================================================
+    3. INSTALLATION STEAM WORKSHOP (si disponible)
+================================================================================
+
+Si le mod est disponible sur Steam Workshop :
+
+Étape 1 : S'ABONNER AU MOD
+---------------------------
+
+    1. Ouvrez Steam
+
+    2. Allez dans la Communauté → Workshop → RimWorld
+
+    3. Recherchez "Monster Hunter RimWorld French"
+
+    4. Cliquez sur "S'abonner"
+
+    5. Le mod sera téléchargé automatiquement
+
+
+Étape 2 : ACTIVER DANS RIMWORLD
+--------------------------------
+
+    1. Lancez RimWorld
+
+    2. Le mod apparaîtra automatiquement dans la liste des mods
+
+    3. Activez-le en cochant la case
+
+    4. Configurez l'ordre de chargement (voir Section 4)
+
+    5. Redémarrez RimWorld
+
+================================================================================
+    4. CONFIGURATION DE L'ORDRE DE CHARGEMENT *** CRUCIAL ***
+================================================================================
+
+L'ORDRE DE CHARGEMENT EST TRÈS IMPORTANT !
+
+Le mod de traduction DOIT être chargé APRÈS le mod principal.
+
+ORDRE CORRECT :
+---------------
+
+    1.  Core (RimWorld)
+    2.  Harmony
+    3.  [DLCs si installés]
+        - Royalty
+        - Ideology
+        - Biotech
+        - Anomaly
+    4.  Vanilla Expanded Framework
+    5.  Monster Hunter RimWorld              ← MOD PRINCIPAL
+    6.  Monster Hunter RimWorld - French     ← MOD DE TRADUCTION
+    7.  [Autres mods...]
+
+
+COMMENT RÉORGANISER :
+---------------------
+
+    Dans l'écran de gestion des mods :
+
+    1. Cliquez sur le mod que vous voulez déplacer
+
+    2. Utilisez les flèches HAUT/BAS sur le côté droit
+
+    3. OU glissez-déposez le mod à la position souhaitée
+
+    4. Assurez-vous que la traduction est SOUS le mod principal
+
+    5. Cliquez sur "Fermer"
+
+    6. Redémarrez RimWorld
+
+
+INDICATEUR VISUEL :
+-------------------
+
+    Si l'ordre est correct, vous ne devriez voir AUCUN avertissement rouge
+    à côté du mod de traduction dans le gestionnaire de mods.
+
+================================================================================
+    5. VÉRIFICATION DE L'INSTALLATION
+================================================================================
+
+Pour vérifier que la traduction fonctionne :
+
+Étape 1 : VÉRIFIER LA LANGUE
+-----------------------------
+
+    1. Menu principal → OPTIONS → LANGUE
+
+    2. Sélectionnez "Français" si ce n'est pas déjà fait
+
+    3. Appliquez et redémarrez
+
+
+Étape 2 : TESTER EN JEU
+------------------------
+
+    1. Créez ou chargez une partie
+
+    2. Ouvrez le menu "Options" → "Paramètres des mods"
+
+    3. Cherchez "Monster Hunter"
+
+    4. Les paramètres devraient être en français :
+       - "Jours avant que les premiers dragons anciens puissent apparaître"
+       - "Effets météorologiques des dragons anciens"
+       - etc.
+
+
+Étape 3 : VÉRIFIER LES INCIDENTS
+---------------------------------
+
+    1. Si un monstre apparaît, la notification devrait être en français
+
+    2. Exemple : "Un dragon ancien - Nergigante s'est aventuré..."
+
+
+Si tout est en français : INSTALLATION RÉUSSIE ! ✓
+
+Si c'est toujours en anglais : Consultez la section DÉPANNAGE
+
+================================================================================
+    6. DÉPANNAGE
+================================================================================
+
+PROBLÈME 1 : Les textes sont toujours en anglais
+-------------------------------------------------
+
+    SOLUTION A : Vérifier l'ordre de chargement
+
+        → Le mod de traduction DOIT être APRÈS le mod principal
+        → Voir Section 4 pour l'ordre correct
+
+    SOLUTION B : Vérifier que le mod est activé
+
+        → Mods → Cochez la case du mod de traduction
+        → Redémarrez RimWorld
+
+    SOLUTION C : Vérifier la langue de RimWorld
+
+        → Options → Langue → Français
+        → Redémarrez RimWorld
+
+    SOLUTION D : Réinstaller le mod
+
+        → Désactivez le mod
+        → Supprimez le dossier MonsterHunterRimworld-French
+        → Réinstallez depuis zéro
+
+
+PROBLÈME 2 : Avertissements rouges dans le gestionnaire de mods
+----------------------------------------------------------------
+
+    CAUSE : Dépendances manquantes ou ordre incorrect
+
+    SOLUTION :
+
+        → Vérifiez que Monster Hunter RimWorld est installé
+        → Vérifiez que Harmony est installé
+        → Vérifiez que Vanilla Expanded Framework est installé
+        → Réorganisez l'ordre de chargement (Section 4)
+
+
+PROBLÈME 3 : Le mod n'apparaît pas dans la liste
+-------------------------------------------------
+
+    SOLUTION :
+
+        → Vérifiez l'emplacement d'installation (Section 2, Étape 1)
+        → Assurez-vous que le dossier s'appelle exactement :
+          "MonsterHunterRimworld-French"
+        → Vérifiez que About/About.xml existe dans le dossier
+        → Redémarrez Steam et RimWorld
+
+
+PROBLÈME 4 : Traduction incomplète (certains textes en anglais)
+----------------------------------------------------------------
+
+    CAUSE : Traduction en cours de développement
+
+    SOLUTION :
+
+        → Signalez les textes non traduits sur GitHub
+        → Contribuez à la traduction si vous le souhaitez
+        → Attendez les prochaines mises à jour
+
+
+PROBLÈME 5 : Conflit avec un autre mod de traduction
+-----------------------------------------------------
+
+    SOLUTION :
+
+        → Désactivez tous les autres mods de traduction pour Monster Hunter
+        → Un seul mod de traduction doit être actif à la fois
+        → Redémarrez RimWorld
+
+================================================================================
+    7. SUPPORT
+================================================================================
+
+Si vous rencontrez des problèmes non résolus par ce guide :
+
+    • GitHub Issues : [URL du repository]
+      → Créez une nouvelle Issue avec :
+        - Votre version de RimWorld
+        - Liste de vos mods actifs
+        - Capture d'écran du problème
+        - Fichier Player.log (si crash)
+
+    • Discord RimWorld FR : discord.gg/rimworld-fr
+      → Canal #support-mods
+
+    • Forums Ludeon : ludeon.com/forums
+      → Section Mods
+
+
+FICHIERS DE LOG :
+-----------------
+
+En cas de crash ou bug, fournissez le fichier Player.log :
+
+    • Windows : C:\Users\[VotreNom]\AppData\LocalLow\Ludeon Studios\
+                RimWorld by Ludeon Studios\Player.log
+
+    • Mac : ~/Library/Logs/Unity/Player.log
+
+    • Linux : ~/.config/unity3d/Ludeon Studios/RimWorld/Player.log
+
+================================================================================
+
+            Merci d'avoir installé la traduction française !
+
+                    Bonne chasse sur la Bordure !
+
+================================================================================
+
+                            Version 1.0 - 2025
+            Traduction communautaire pour Monster Hunter RimWorld
+                    Non affilié à Capcom ou Ludeon Studios
+
+================================================================================

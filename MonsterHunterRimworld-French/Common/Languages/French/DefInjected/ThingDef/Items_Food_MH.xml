@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Cooked Meals / Repas cuisinés -->
+	<MealCookedMeat.label>viande cuite</MealCookedMeat.label>
+	<MealCookedMeat.description>Un simple repas de chasseur - un morceau de viande juteuse bien cuit. Délicieux !</MealCookedMeat.description>
+
+	<MealHunter.label>repas de chasseur</MealHunter.label>
+	<MealHunter.description>Une portion de nourriture absurdement grande. Fait des merveilles pour votre corps.</MealHunter.description>
+
+</LanguageData>
