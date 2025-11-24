@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <MHIntro.label>rechercher l'histoire wyvérienne</MHIntro.label>
+  <MHIntro.description>Recherchez d'anciens textes wyvériens pour obtenir des informations sur l'histoire de la chasse aux monstres.</MHIntro.description>
+
+  <MHSmithy.label>forge de chasseur</MHSmithy.label>
+  <MHSmithy.description>Recherchez comment construire une forge pour fabriquer des armes de chasseur.</MHSmithy.description>
+
+  <MHSiegeTier1.label>armes de siège légères</MHSiegeTier1.label>
+  <MHSiegeTier1.description>Recherchez comment construire des armes de siège légères.</MHSiegeTier1.description>
+
+</LanguageData>

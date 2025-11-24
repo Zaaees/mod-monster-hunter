@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- kulu ya-ku -->
+  <KuluYaKu.label>kulu ya-ku</KuluYaKu.label>
+  <KuluYaKu.description>Une wyverne aviaire étrange qui a développé des membres capables de porter des armes. On l'a vue voler des œufs dans les nids d'autres animaux.</KuluYaKu.description>
+  <KuluYaKu.tools.0.label>griffe gauche</KuluYaKu.tools.0.label>
+  <KuluYaKu.tools.1.label>griffe droite</KuluYaKu.tools.1.label>
+  <KuluYaKu.tools.3.label>tête</KuluYaKu.tools.3.label>
+
+  <!-- genprey -->
+  <Genprey.label>genprey</Genprey.label>
+  <Genprey.description>Petits carnivores à rayures orange et vertes trouvés principalement dans les zones désertiques. Leurs crocs et griffes contiennent une neurotoxine paralysante.</Genprey.description>
+  <Genprey.tools.0.label>griffe gauche</Genprey.tools.0.label>
+  <Genprey.tools.1.label>griffe droite</Genprey.tools.1.label>
+  <Genprey.tools.3.label>tête</Genprey.tools.3.label>
+
+  <!-- Velociprey -->
+  <Velociprey.label>Velociprey</Velociprey.label>
+  <Velociprey.description>Ces monstres ressemblent à des dinosaures dromaeosauridés. Carnivores voyageant en meutes et habitant de nombreux environnements différents.</Velociprey.description>
+  <Velociprey.tools.0.label>griffe gauche</Velociprey.tools.0.label>
+  <Velociprey.tools.1.label>griffe droite</Velociprey.tools.1.label>
+  <Velociprey.tools.3.label>tête</Velociprey.tools.3.label>
+
+  <!-- giaprey -->
+  <Giaprey.label>giaprey</Giaprey.label>
+  <Giaprey.description>Petits carnivores ressemblant à des oiseaux habitant les montagnes enneigées. Leur peau blanche est belle mais leur tempérament ne l'est pas. Crachent de la glace.</Giaprey.description>
+  <Giaprey.tools.0.label>griffe gauche</Giaprey.tools.0.label>
+  <Giaprey.tools.1.label>griffe droite</Giaprey.tools.1.label>
+  <Giaprey.tools.3.label>tête</Giaprey.tools.3.label>
+
+  <!-- tzitzi ya-ku -->
+  <TzitziYaKu.label>tzitzi ya-ku</TzitziYaKu.label>
+  <TzitziYaKu.description>Ce monstre étrange aveugle proies et ennemis avec un organe pulsant spécial près de sa tête, puis utilise ses pattes puissantes pour porter des coups fatals.</TzitziYaKu.description>
+  <TzitziYaKu.tools.0.label>griffe gauche</TzitziYaKu.tools.0.label>
+  <TzitziYaKu.tools.1.label>griffe droite</TzitziYaKu.tools.1.label>
+  <TzitziYaKu.tools.3.label>tête</TzitziYaKu.tools.3.label>
+
+  <!-- pukei-pukei -->
+  <PukeiPukei.label>pukei-pukei</PukeiPukei.label>
+  <PukeiPukei.description>Une wyverne aviaire connue pour posséder des toxines empoisonnées dans son corps. Stocke des noix dans sa bouche ou sa queue, les enduit de poison et les crache.</PukeiPukei.description>
+  <PukeiPukei.tools.0.label>griffe gauche</PukeiPukei.tools.0.label>
+  <PukeiPukei.tools.1.label>griffe droite</PukeiPukei.tools.1.label>
+  <PukeiPukei.tools.3.label>tête</PukeiPukei.tools.3.label>
+  <PukeiPukei.tools.4.label>queue</PukeiPukei.tools.4.label>
+
+  <!-- Yian-Kut-Ku -->
+  <YianKutKu.label>Yian-Kut-Ku</YianKutKu.label>
+  <YianKutKu.description>Une wyverne aviaire avec un énorme bec et de grandes oreilles qui s'ouvrent quand elle est en colère. Rapide et territoriale, connue pour son amour des Konchu.</YianKutKu.description>
+  <YianKutKu.tools.0.label>griffe gauche</YianKutKu.tools.0.label>
+  <YianKutKu.tools.1.label>griffe droite</YianKutKu.tools.1.label>
+  <YianKutKu.tools.2.label>bec</YianKutKu.tools.2.label>
+  <YianKutKu.tools.3.label>queue</YianKutKu.tools.3.label>
+
+</LanguageData>

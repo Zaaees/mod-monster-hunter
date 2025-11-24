@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Rathalos Quest -->
+  <MHRW_RathalosQuest.questNameRules.rulesStrings.0>questName->chasse au [monster] de [asker_nameDef]</MHRW_RathalosQuest.questNameRules.rulesStrings.0>
+  <MHRW_RathalosQuest.questNameRules.rulesStrings.1>monster->Rathalos</MHRW_RathalosQuest.questNameRules.rulesStrings.1>
+  <MHRW_RathalosQuest.questNameRules.rulesStrings.2>hunt->chasse</MHRW_RathalosQuest.questNameRules.rulesStrings.2>
+  <MHRW_RathalosQuest.questNameRules.rulesStrings.3>hunt->observation</MHRW_RathalosQuest.questNameRules.rulesStrings.3>
+
+  <MHRW_RathalosQuest.questDescriptionRules.rulesStrings.0>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nous a envoyé un message. Ils ont aperçu un Rathalos près de l'une de leurs colonies et craignent qu'il n'attaque. Si nous parvenons à l'abattre, [allRewardsDescriptions]</MHRW_RathalosQuest.questDescriptionRules.rulesStrings.0>
+
+  <MHRW_RathalosQuest.root.nodes.13.node.nodes.0.label>Quête expirée : [resolvedQuestName]</MHRW_RathalosQuest.root.nodes.13.node.nodes.0.label>
+  <MHRW_RathalosQuest.root.nodes.13.node.nodes.0.text>Le monstre a quitté cette zone, et vous n'en entendrez plus parler jusqu'à ce qu'il ait fait ses prochaines victimes. La quête [resolvedQuestName] a expiré.</MHRW_RathalosQuest.root.nodes.13.node.nodes.0.text>
+
+  <MHRW_RathalosQuest.root.nodes.14.node.customLetterLabel>Paiement reçu</MHRW_RathalosQuest.root.nodes.14.node.customLetterLabel>
+  <MHRW_RathalosQuest.root.nodes.14.node.customLetterText>Vous avez vaincu les monstres !\n\nLe paiement de [asker_faction_name] est arrivé.</MHRW_RathalosQuest.root.nodes.14.node.customLetterText>
+  <MHRW_RathalosQuest.root.nodes.14.node.nodeIfChosenPawnSignalUsed.label>[asker_faction_royalFavorLabel]</MHRW_RathalosQuest.root.nodes.14.node.nodeIfChosenPawnSignalUsed.label>
+  <MHRW_RathalosQuest.root.nodes.14.node.nodeIfChosenPawnSignalUsed.text>Ces colons ont participé à la chasse épique pour la quête [resolvedQuestName]. [asker_definite] veut savoir qui devrait recevoir les [royalFavorReward_amount] points de faveur [asker_faction_royalFavorLabel] pour ce service.</MHRW_RathalosQuest.root.nodes.14.node.nodeIfChosenPawnSignalUsed.text>
+
+</LanguageData>

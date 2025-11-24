@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Clawed Hands Thoughts -->
+  <EtherWyvernHand.stages.0.label>mains griffues</EtherWyvernHand.stages.0.label>
+  <EtherWyvernHand.stages.0.description>Ça rend difficile la manipulation d'objets.</EtherWyvernHand.stages.0.description>
+  <EtherWyvernHand.stages.1.label>mains griffues</EtherWyvernHand.stages.1.label>
+  <EtherWyvernHand.stages.1.description>Trancher et découper !</EtherWyvernHand.stages.1.description>
+  <EtherWyvernHand.stages.2.label>mains griffues</EtherWyvernHand.stages.2.label>
+  <EtherWyvernHand.stages.2.description>Je n'arrête pas de me griffer moi-même avec ça par accident.</EtherWyvernHand.stages.2.description>
+
+  <!-- Clawed Feet Thoughts -->
+  <EtherWyvernFoot.stages.0.label>pieds griffus</EtherWyvernFoot.stages.0.label>
+  <EtherWyvernFoot.stages.0.description>Comment suis-je censé porter des chaussures avec ça ?</EtherWyvernFoot.stages.0.description>
+  <EtherWyvernFoot.stages.1.label>pieds griffus</EtherWyvernFoot.stages.1.label>
+  <EtherWyvernFoot.stages.1.description>J'apprécie la traction supplémentaire que ça me donne.</EtherWyvernFoot.stages.1.description>
+  <EtherWyvernFoot.stages.2.label>pieds griffus</EtherWyvernFoot.stages.2.label>
+  <EtherWyvernFoot.stages.2.description>Même mes pieds sont monstrueux. Dégoûtant.</EtherWyvernFoot.stages.2.description>
+
+  <!-- Raptor Feet Thoughts -->
+  <EtherDromeFoot.stages.0.label>pieds de raptor</EtherDromeFoot.stages.0.label>
+  <EtherDromeFoot.stages.0.description>Pourquoi mon orteil est-il courbé vers le haut, et pourquoi ai-je un couteau de combat qui pousse dessus.</EtherDromeFoot.stages.0.description>
+  <EtherDromeFoot.stages.1.label>pieds de raptor</EtherDromeFoot.stages.1.label>
+  <EtherDromeFoot.stages.1.description>Je vais éventrer quiconque me cherche avec un seul coup de pied !</EtherDromeFoot.stages.1.description>
+  <EtherDromeFoot.stages.2.label>pieds de raptor</EtherDromeFoot.stages.2.label>
+  <EtherDromeFoot.stages.2.description>Pourquoi mes pieds sont-ils mutilés ?! C'est horrible !</EtherDromeFoot.stages.2.description>
+
+  <!-- Digitigrade Legs Thoughts -->
+  <EtherMHDigitigradeLeg.stages.0.label>Jambes animales</EtherMHDigitigradeLeg.stages.0.label>
+  <EtherMHDigitigradeLeg.stages.0.description>Sont-elles pliées différemment, ou est-ce mon talon ?</EtherMHDigitigradeLeg.stages.0.description>
+  <EtherMHDigitigradeLeg.stages.1.label>Jambes animales</EtherMHDigitigradeLeg.stages.1.label>
+  <EtherMHDigitigradeLeg.stages.1.description>Je peux être tellement plus rapide comme ça ! Une fois que je m'y serai habitué.</EtherMHDigitigradeLeg.stages.1.description>
+  <EtherMHDigitigradeLeg.stages.2.label>Jambes animales</EtherMHDigitigradeLeg.stages.2.label>
+  <EtherMHDigitigradeLeg.stages.2.description>Mon genou se plie maintenant vers l'arrière ! Quoi ? C'est mon talon, pas mon genou ? Encore pire !</EtherMHDigitigradeLeg.stages.2.description>
+  <EtherMHDigitigradeLeg.stages.3.label>Jambes animales</EtherMHDigitigradeLeg.stages.3.label>
+  <EtherMHDigitigradeLeg.stages.3.description>Encore un peu plus, et je ne pourrai plus me tenir debout ! Qu'en pensez-vous ?</EtherMHDigitigradeLeg.stages.3.description>
+
+  <!-- Wyvern Eyes Thoughts -->
+  <EtherWyvernEye.stages.0.label>yeux de wyverne</EtherWyvernEye.stages.0.label>
+  <EtherWyvernEye.stages.0.description>C'est troublant de les voir dans le miroir.</EtherWyvernEye.stages.0.description>
+  <EtherWyvernEye.stages.1.label>yeux de wyverne</EtherWyvernEye.stages.1.label>
+  <EtherWyvernEye.stages.1.description>Bon sang, je peux tout voir la nuit.</EtherWyvernEye.stages.1.description>
+  <EtherWyvernEye.stages.2.label>yeux de wyverne</EtherWyvernEye.stages.2.label>
+  <EtherWyvernEye.stages.2.description>C'est quoi ces yeux ?</EtherWyvernEye.stages.2.description>
+  <EtherWyvernEye.stages.3.label>yeux de wyverne</EtherWyvernEye.stages.3.label>
+  <EtherWyvernEye.stages.3.description>Une meilleure vue est toujours bienvenue.</EtherWyvernEye.stages.3.description>
+
+</LanguageData>

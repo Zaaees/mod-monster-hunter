@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <BBQSpit.label>broche de barbecue</BBQSpit.label>
+  <BBQSpit.description>Une broche de cuisson portable.</BBQSpit.description>
+
+  <MHSmithy.label>forge de chasseur</MHSmithy.label>
+  <MHSmithy.description>Une station alimentée au bois pour forger des armes de chasseur.</MHSmithy.description>
+
+</LanguageData>

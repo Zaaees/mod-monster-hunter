@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Paralysis damage types -->
+  <MHParalisisBite.label>morsure paralysante</MHParalisisBite.label>
+
+  <!-- Poison damage types -->
+  <MHPoisonCut.label>coupure empoisonnée</MHPoisonCut.label>
+  <MHPoisonStab.label>coup</MHPoisonStab.label>
+  <MHPoisonStab.deathMessage>{0} a été poignardé(e) à mort.</MHPoisonStab.deathMessage>
+  <MHPoisonBlunt.label>coup empoisonné</MHPoisonBlunt.label>
+  <MHPoisonBullet.label>balle</MHPoisonBullet.label>
+  <MHPoisonBullet.deathMessage>{0} a été abattu(e).</MHPoisonBullet.deathMessage>
+
+  <!-- Paralysis damage types -->
+  <MHParalisisCut.label>coupure paralysante</MHParalisisCut.label>
+  <MHParalisisBlunt.label>coup paralysant</MHParalisisBlunt.label>
+  <MHParalisisBullet.label>balle</MHParalisisBullet.label>
+  <MHParalisisBullet.deathMessage>{0} a été abattu(e).</MHParalisisBullet.deathMessage>
+
+  <!-- Water damage types -->
+  <MHWaterCut.label>coupure</MHWaterCut.label>
+  <MHWaterBlunt.label>coup</MHWaterBlunt.label>
+  <MHWaterBullet.label>balle</MHWaterBullet.label>
+  <MHWaterBullet.deathMessage>{0} a été abattu(e).</MHWaterBullet.deathMessage>
+
+  <!-- Ice damage types -->
+  <MHIceCut.label>coupure</MHIceCut.label>
+  <MHIceBlunt.label>coup</MHIceBlunt.label>
+  <MHIceBullet.label>balle</MHIceBullet.label>
+  <MHIceBullet.deathMessage>{0} a été abattu(e).</MHIceBullet.deathMessage>
+
+  <!-- Monster projectile damage types -->
+  <MHPoisonBurst.label>explosion de poison</MHPoisonBurst.label>
+  <MHParaBurst.label>explosion paralysante</MHParaBurst.label>
+  <MHIceBurst.label>explosion de glace</MHIceBurst.label>
+  <MHMudBurst.label>explosion de boue</MHMudBurst.label>
+  <MHSilentExplosion.label>bouffée</MHSilentExplosion.label>
+  <MHFlashStun.label>éclair</MHFlashStun.label>
+  <MHFlashStun.deathMessage>{0} est mort(e) dans une explosion.</MHFlashStun.deathMessage>
+
+</LanguageData>

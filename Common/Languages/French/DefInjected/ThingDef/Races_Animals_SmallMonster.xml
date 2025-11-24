@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Jagras -->
+  <Jagras.label>Jagras</Jagras.label>
+  <Jagras.description>Un iguane de la taille d'un chien. Vit en meute et vénère les dreadlocks.</Jagras.description>
+  <Jagras.tools.0.label>griffe gauche</Jagras.tools.0.label>
+  <Jagras.tools.1.label>griffe droite</Jagras.tools.1.label>
+  <Jagras.tools.2.label>tête</Jagras.tools.2.label>
+
+  <!-- Girros -->
+  <Girros.label>Girros</Girros.label>
+  <Girros.description>Monstres connus pour attaquer en meute, utilisant la vapeur mortelle du Val putride à leur avantage. Ils sont connus pour paralyser leurs cibles avec leurs crocs paralysants.</Girros.description>
+  <Girros.tools.0.label>griffe gauche</Girros.tools.0.label>
+  <Girros.tools.1.label>griffe droite</Girros.tools.1.label>
+  <Girros.tools.2.label>tête</Girros.tools.2.label>
+
+  <!-- Aptonoth -->
+  <Aptonoth.label>Aptonoth</Aptonoth.label>
+  <Aptonoth.description>Un dinosaure herbivore docile. Sa viande est un vrai délice, apprécié à la fois par les humains et les animaux carnivores.</Aptonoth.description>
+  <Aptonoth.tools.0.label>tête</Aptonoth.tools.0.label>
+
+  <!-- Rhenoplos -->
+  <Rhenoplos.label>Rhenoplos</Rhenoplos.label>
+  <Rhenoplos.description>Un herbivore territorial avec une armure épaisse et un tempérament colérique. Charge les intrus sans hésitation.</Rhenoplos.description>
+  <Rhenoplos.tools.1.label>tête</Rhenoplos.tools.1.label>
+
+  <!-- Slagtoth -->
+  <Slagtoth.label>Slagtoth</Slagtoth.label>
+  <Slagtoth.description>Des créatures dociles à la peau verte pendante. Leur viande est appréciée par les chasseurs et les carnivores.</Slagtoth.description>
+  <Slagtoth.tools.1.label>tête</Slagtoth.tools.1.label>
+
+  <!-- Kelbi -->
+  <Kelbi.label>Kelbi</Kelbi.label>
+  <Kelbi.description>Un herbivore de taille moyenne qui préfère vivre en troupeaux dans les forêts mixtes et les plaines. Très rapide et agile.</Kelbi.description>
+  <Kelbi.tools.0.label>sabot gauche</Kelbi.tools.0.label>
+  <Kelbi.tools.1.label>sabot droit</Kelbi.tools.1.label>
+  <Kelbi.tools.2.label>dents</Kelbi.tools.2.label>
+  <Kelbi.tools.3.label>tête</Kelbi.tools.3.label>
+
+  <!-- Jaggi -->
+  <Jaggi.label>Jaggi</Jaggi.label>
+  <Jaggi.description>Wyverne aviaire carnivore très sociale vivant en grandes meutes. Les jeunes mâles chassent en groupe sous les ordres d'un mâle alpha.</Jaggi.description>
+  <Jaggi.tools.0.label>griffe gauche</Jaggi.tools.0.label>
+  <Jaggi.tools.1.label>griffe droite</Jaggi.tools.1.label>
+  <Jaggi.tools.3.label>tête</Jaggi.tools.3.label>
+
+  <!-- Kestodon -->
+  <Kestodon.label>Kestodon</Kestodon.label>
+  <Kestodon.description>Un petit herbivore territorial. Les mâles ont des cornes imposantes et défendent agressivement leur territoire.</Kestodon.description>
+  <Kestodon.tools.0.label>griffe gauche</Kestodon.tools.0.label>
+  <Kestodon.tools.1.label>griffe droite</Kestodon.tools.1.label>
+  <Kestodon.tools.3.label>tête</Kestodon.tools.3.label>
+
+  <!-- Gastodon -->
+  <Gastodon.label>Gastodon</Gastodon.label>
+  <Gastodon.description>Un herbivore corpulent avec une carapace épaisse. Vit en troupeaux et peut être dangereux lorsqu'il est provoqué.</Gastodon.description>
+  <Gastodon.tools.0.label>griffe gauche</Gastodon.tools.0.label>
+  <Gastodon.tools.1.label>griffe droite</Gastodon.tools.1.label>
+
+  <!-- apceros -->
+  <Apceros.label>apceros</Apceros.label>
+  <Apceros.description>Un herbivore paisible avec une carapace dorsale distinctive. Se nourrit de végétation et évite généralement les conflits.</Apceros.description>
+  <Apceros.tools.1.label>tête</Apceros.tools.1.label>
+
+  <!-- Shamos -->
+  <Shamos.label>Shamos</Shamos.label>
+  <Shamos.description>Petits carnivores nocturnes qui chassent en meute. Utilisent leur agilité pour submerger des proies plus grandes.</Shamos.description>
+  <Shamos.tools.0.label>griffe gauche</Shamos.tools.0.label>
+  <Shamos.tools.1.label>griffe droite</Shamos.tools.1.label>
+  <Shamos.tools.3.label>tête</Shamos.tools.3.label>
+
+  <!-- Delex -->
+  <Delex.label>Delex</Delex.label>
+  <Delex.description>Des prédateurs qui nagent sous le sable du désert comme des requins. Émergent pour attaquer leurs proies par surprise.</Delex.description>
+  <Delex.tools.0.label>griffe gauche</Delex.tools.0.label>
+  <Delex.tools.1.label>griffe droite</Delex.tools.1.label>
+  <Delex.tools.3.label>tête</Delex.tools.3.label>
+
+  <!-- Bullfango -->
+  <Bullfango.label>Bullfango</Bullfango.label>
+  <Bullfango.description>Sangliers sauvages territoriaux connus pour charger tout ce qui entre dans leur domaine. Vivent en petits groupes.</Bullfango.description>
+  <Bullfango.tools.2.label>tête</Bullfango.tools.2.label>
+
+
+</LanguageData>

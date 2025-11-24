@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Transformation Serums -->
+  <RandomMonsterTransformer.label>mutasérum, monstrueux</RandomMonsterTransformer.label>
+  <RandomMonsterTransformer.description>Un sérum rempli de mécanites et d'ADN animal qui provoque de puissantes mutations monstrueuses. À utiliser avec précaution, car laisser les mécanites sans surveillance peut transformer l'utilisateur.</RandomMonsterTransformer.description>
+
+  <RandomElderDragonTransformer.label>mutasérum, dragon ancien</RandomElderDragonTransformer.label>
+  <RandomElderDragonTransformer.description>Un sérum rempli de mécanites et d'ADN animal qui provoque de puissantes mutations de dragon ancien. À utiliser avec précaution, car laisser les mécanites sans surveillance peut transformer l'utilisateur.</RandomElderDragonTransformer.description>
+
+</LanguageData>

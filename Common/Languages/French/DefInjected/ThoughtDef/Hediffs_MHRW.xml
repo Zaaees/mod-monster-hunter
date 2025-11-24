@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <AteHunterMeal.stages.0.label>a mangé un repas de chasseur</AteHunterMeal.stages.0.label>
+  <AteHunterMeal.stages.0.description>Wow, cette nourriture était tellement bonne ! J'ai l'impression que je pourrais déplacer des montagnes !</AteHunterMeal.stages.0.description>
+
+  <HuntingHornMood.stages.0.label>a apprécié de la musique</HuntingHornMood.stages.0.label>
+  <HuntingHornMood.stages.0.description>Les cors de chasse ont un son si plaisant.</HuntingHornMood.stages.0.description>
+
+</LanguageData>

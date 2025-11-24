@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Small Rugs -->
+  <MH_RugSmall_Jaggi.label>tapis de Jaggi</MH_RugSmall_Jaggi.label>
+  <MH_RugSmall_Jaggi.description>Un petit tapis fait de cuir de Jaggi.</MH_RugSmall_Jaggi.description>
+
+  <MH_RugSmall_Giadrome.label>tapis de Giadrome</MH_RugSmall_Giadrome.label>
+  <MH_RugSmall_Giadrome.description>Un petit tapis fait de cuir de Giadrome.</MH_RugSmall_Giadrome.description>
+
+  <MH_RugSmall_Gendrome.label>tapis de Gendrome</MH_RugSmall_Gendrome.label>
+  <MH_RugSmall_Gendrome.description>Un petit tapis fait de cuir de Gendrome.</MH_RugSmall_Gendrome.description>
+
+  <MH_RugSmall_Velocidrome.label>tapis de Velocidrome</MH_RugSmall_Velocidrome.label>
+  <MH_RugSmall_Velocidrome.description>Un petit tapis fait de cuir de Velocidrome.</MH_RugSmall_Velocidrome.description>
+
+  <!-- Medium Rugs -->
+  <MH_RugMedium_Aptonoth.label>tapis d'Aptonoth</MH_RugMedium_Aptonoth.label>
+  <MH_RugMedium_Aptonoth.description>Un tapis de taille moyenne fait de cuir d'Aptonoth.</MH_RugMedium_Aptonoth.description>
+
+  <MH_RugMedium_Gastodon.label>tapis de Gastodon</MH_RugMedium_Gastodon.label>
+  <MH_RugMedium_Gastodon.description>Un tapis de taille moyenne fait de cuir de Gastodon.</MH_RugMedium_Gastodon.description>
+
+  <MH_RugMedium_KuluYaKu.label>tapis de Kulu Ya-Ku</MH_RugMedium_KuluYaKu.label>
+  <MH_RugMedium_KuluYaKu.description>Un tapis de taille moyenne fait de cuir de Kulu Ya-Ku.</MH_RugMedium_KuluYaKu.description>
+
+  <MH_RugMedium_TzitziYaKu.label>tapis de Tzitzi Ya-Ku</MH_RugMedium_TzitziYaKu.label>
+  <MH_RugMedium_TzitziYaKu.description>Un tapis de taille moyenne fait de cuir de Tzitzi Ya-Ku.</MH_RugMedium_TzitziYaKu.description>
+
+  <MH_RugMedium_Kestodon.label>tapis de Kestodon</MH_RugMedium_Kestodon.label>
+  <MH_RugMedium_Kestodon.description>Un tapis de taille moyenne fait de cuir de Kestodon.</MH_RugMedium_Kestodon.description>
+
+  <MH_RugMedium_Kirin.label>tapis de Kirin</MH_RugMedium_Kirin.label>
+  <MH_RugMedium_Kirin.description>Un tapis de taille moyenne fait de cuir de Kirin.</MH_RugMedium_Kirin.description>
+
+  <MH_RugMedium_Shamos.label>tapis de Shamos</MH_RugMedium_Shamos.label>
+  <MH_RugMedium_Shamos.description>Un tapis de taille moyenne fait de cuir de Shamos.</MH_RugMedium_Shamos.description>
+
+  <MH_RugMedium_Jagras.label>tapis de Jagras</MH_RugMedium_Jagras.label>
+  <MH_RugMedium_Jagras.description>Un tapis de taille moyenne fait de cuir de Jagras.</MH_RugMedium_Jagras.description>
+
+  <MH_RugMedium_Girros.label>tapis de Girros</MH_RugMedium_Girros.label>
+  <MH_RugMedium_Girros.description>Un tapis de taille moyenne fait de cuir de Girros.</MH_RugMedium_Girros.description>
+
+  <!-- Large Rugs -->
+  <MH_RugLarge_Anjanath.label>tapis d'Anjanath</MH_RugLarge_Anjanath.label>
+  <MH_RugLarge_Anjanath.description>Un grand revêtement de sol fait de cuir d'Anjanath.</MH_RugLarge_Anjanath.description>
+
+  <MH_RugLarge_Bazelgeuse.label>tapis de Bazelgeuse</MH_RugLarge_Bazelgeuse.label>
+  <MH_RugLarge_Bazelgeuse.description>Un grand revêtement de sol fait de cuir de Bazelgeuse.</MH_RugLarge_Bazelgeuse.description>
+
+  <MH_RugLarge_Deviljho.label>tapis de Deviljho</MH_RugLarge_Deviljho.label>
+  <MH_RugLarge_Deviljho.description>Un grand revêtement de sol fait de cuir de Deviljho.</MH_RugLarge_Deviljho.description>
+
+  <MH_RugLarge_Diablos.label>tapis de Diablos</MH_RugLarge_Diablos.label>
+  <MH_RugLarge_Diablos.description>Un grand revêtement de sol fait de cuir de Diablos.</MH_RugLarge_Diablos.description>
+
+  <MH_RugLarge_Dodogama.label>tapis de Dodogama</MH_RugLarge_Dodogama.label>
+  <MH_RugLarge_Dodogama.description>Un grand revêtement de sol fait de cuir de Dodogama.</MH_RugLarge_Dodogama.description>
+
+  <MH_RugLarge_Glavenus.label>tapis de Glavenus</MH_RugLarge_Glavenus.label>
+  <MH_RugLarge_Glavenus.description>Un grand revêtement de sol fait de cuir de Glavenus.</MH_RugLarge_Glavenus.description>
+
+  <MH_RugLarge_KulveTaroth.label>tapis de Kulve Taroth</MH_RugLarge_KulveTaroth.label>
+  <MH_RugLarge_KulveTaroth.description>Un grand revêtement de sol fait de cuir de Kulve Taroth.</MH_RugLarge_KulveTaroth.description>
+
+  <MH_RugLarge_KushalaDaora.label>tapis de Kushala Daora</MH_RugLarge_KushalaDaora.label>
+  <MH_RugLarge_KushalaDaora.description>Un grand revêtement de sol fait de cuir de Kushala Daora.</MH_RugLarge_KushalaDaora.description>
+
+  <MH_RugLarge_Lavasioth.label>tapis de Lavasioth</MH_RugLarge_Lavasioth.label>
+  <MH_RugLarge_Lavasioth.description>Un grand revêtement de sol fait de cuir de Lavasioth.</MH_RugLarge_Lavasioth.description>
+
+  <MH_RugLarge_Legiana.label>tapis de Legiana</MH_RugLarge_Legiana.label>
+  <MH_RugLarge_Legiana.description>Un grand revêtement de sol fait de cuir de Legiana.</MH_RugLarge_Legiana.description>
+
+  <MH_RugLarge_Lunastra.label>tapis de Lunastra</MH_RugLarge_Lunastra.label>
+  <MH_RugLarge_Lunastra.description>Un grand revêtement de sol fait de cuir de Lunastra.</MH_RugLarge_Lunastra.description>
+
+  <MH_RugLarge_Teostra.label>tapis de Teostra</MH_RugLarge_Teostra.label>
+  <MH_RugLarge_Teostra.description>Un grand revêtement de sol fait de cuir de Teostra.</MH_RugLarge_Teostra.description>
+
+  <MH_RugLarge_Mizutsune.label>tapis de Mizutsune</MH_RugLarge_Mizutsune.label>
+  <MH_RugLarge_Mizutsune.description>Un grand revêtement de sol fait de cuir de Mizutsune.</MH_RugLarge_Mizutsune.description>
+
+  <MH_RugLarge_Nargacuga.label>tapis de Nargacuga</MH_RugLarge_Nargacuga.label>
+  <MH_RugLarge_Nargacuga.description>Un grand revêtement de sol fait de cuir de Nargacuga.</MH_RugLarge_Nargacuga.description>
+
+  <MH_RugLarge_Nergigante.label>tapis de Nergigante</MH_RugLarge_Nergigante.label>
+  <MH_RugLarge_Nergigante.description>Un grand revêtement de sol fait de cuir de Nergigante.</MH_RugLarge_Nergigante.description>
+
+  <MH_RugLarge_Odogaron.label>tapis d'Odogaron</MH_RugLarge_Odogaron.label>
+  <MH_RugLarge_Odogaron.description>Un grand revêtement de sol fait de cuir d'Odogaron.</MH_RugLarge_Odogaron.description>
+
+  <MH_RugLarge_Paolumu.label>tapis de Paolumu</MH_RugLarge_Paolumu.label>
+  <MH_RugLarge_Paolumu.description>Un grand revêtement de sol fait de cuir de Paolumu.</MH_RugLarge_Paolumu.description>
+
+  <MH_RugLarge_Plesioth.label>tapis de Plesioth</MH_RugLarge_Plesioth.label>
+  <MH_RugLarge_Plesioth.description>Un grand revêtement de sol fait de cuir de Plesioth.</MH_RugLarge_Plesioth.description>
+
+  <MH_RugLarge_Pukei.label>tapis de Pukei-Pukei</MH_RugLarge_Pukei.label>
+  <MH_RugLarge_Pukei.description>Un grand revêtement de sol fait de cuir de Pukei-Pukei.</MH_RugLarge_Pukei.description>
+
+  <MH_RugLarge_Rathalos.label>tapis de Rathalos</MH_RugLarge_Rathalos.label>
+  <MH_RugLarge_Rathalos.description>Un grand revêtement de sol fait de cuir de Rathalos.</MH_RugLarge_Rathalos.description>
+
+  <MH_RugLarge_Rathian.label>tapis de Rathian</MH_RugLarge_Rathian.label>
+  <MH_RugLarge_Rathian.description>Un grand revêtement de sol fait de cuir de Rathian.</MH_RugLarge_Rathian.description>
+
+  <MH_RugLarge_Tigrex.label>tapis de Tigrex</MH_RugLarge_Tigrex.label>
+  <MH_RugLarge_Tigrex.description>Un grand revêtement de sol fait de cuir de Tigrex.</MH_RugLarge_Tigrex.description>
+
+  <MH_RugLarge_TobiKadachi.label>tapis de Tobi-Kadachi</MH_RugLarge_TobiKadachi.label>
+  <MH_RugLarge_TobiKadachi.description>Un grand revêtement de sol fait de cuir de Tobi-Kadachi.</MH_RugLarge_TobiKadachi.description>
+
+  <MH_RugLarge_VaalHazak.label>tapis de Vaal Hazak</MH_RugLarge_VaalHazak.label>
+  <MH_RugLarge_VaalHazak.description>Un grand revêtement de sol fait de cuir de Vaal Hazak.</MH_RugLarge_VaalHazak.description>
+
+  <MH_RugLarge_Velkhana.label>tapis de Velkhana</MH_RugLarge_Velkhana.label>
+  <MH_RugLarge_Velkhana.description>Un grand revêtement de sol fait de cuir de Velkhana.</MH_RugLarge_Velkhana.description>
+
+  <MH_RugLarge_YianKutKu.label>tapis de Yian Kut-Ku</MH_RugLarge_YianKutKu.label>
+  <MH_RugLarge_YianKutKu.description>Un grand revêtement de sol fait de cuir de Yian Kut-Ku.</MH_RugLarge_YianKutKu.description>
+
+  <MH_RugLarge_Zamtrios.label>tapis de Zamtrios</MH_RugLarge_Zamtrios.label>
+  <MH_RugLarge_Zamtrios.description>Un grand revêtement de sol fait de cuir de Zamtrios.</MH_RugLarge_Zamtrios.description>
+
+  <MH_RugLarge_Zinogre.label>tapis de Zinogre</MH_RugLarge_Zinogre.label>
+  <MH_RugLarge_Zinogre.description>Un grand revêtement de sol fait de cuir de Zinogre.</MH_RugLarge_Zinogre.description>
+
+</LanguageData>

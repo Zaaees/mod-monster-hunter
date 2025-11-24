@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Mod settings -->
+	<ModSettingFirstElderDragonLabel>Jours avant l'apparition des premiers dragons anciens :</ModSettingFirstElderDragonLabel>
+	<ModSettingElderDragonWeatherEffectsLabel>Effets météorologiques des dragons anciens</ModSettingElderDragonWeatherEffectsLabel>
+	<ModSettingElderDragonWeatherEffectsTooltip>Les dragons anciens causent des effets météorologiques constants</ModSettingElderDragonWeatherEffectsTooltip>
+	<ModSettingElderDragonScareAnimalsLabel>Les dragons anciens effraient les animaux</ModSettingElderDragonScareAnimalsLabel>
+	<ModSettingElderDragonScareAnimalsTooltip>Les dragons anciens effraient les animaux en entrant sur la carte</ModSettingElderDragonScareAnimalsTooltip>
+
+	<!-- Weapon gizmos -->
+	<TransformLabel>Transformer</TransformLabel>
+
+</LanguageData>

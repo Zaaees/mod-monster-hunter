@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Kushala Daora -->
+  <KushalaDaora.label>Kushala Daora</KushalaDaora.label>
+  <KushalaDaora.description>Dragon ancien vêtu de plaques métalliques. Génère des tempêtes partout où il va. S'en approcher n'est pas une mince affaire.</KushalaDaora.description>
+  <KushalaDaora.tools.0.label>griffe avant gauche</KushalaDaora.tools.0.label>
+  <KushalaDaora.tools.1.label>griffe avant droite</KushalaDaora.tools.1.label>
+  <KushalaDaora.tools.3.label>tête</KushalaDaora.tools.3.label>
+
+  <!-- Tesuka -->
+  <Tesuka.label>Tesuka</Tesuka.label>
+  <Tesuka.description>Dragons anciens brutaux enveloppés de flammes qui crachent un feu ardent. Leur apparence varie selon le sexe. Teostra est rouge, Lunastra est bleue.</Tesuka.description>
+  <Tesuka.tools.0.label>griffe avant gauche</Tesuka.tools.0.label>
+  <Tesuka.tools.1.label>griffe avant droite</Tesuka.tools.1.label>
+  <Tesuka.tools.3.label>tête</Tesuka.tools.3.label>
+
+  <!-- Nergigante -->
+  <Nergigante.label>Nergigante</Nergigante.label>
+  <Nergigante.description>Un terrible dragon ancien qui apparaît quand d'autres anciens sont dans les environs. Son penchant pour la destruction est bien documenté.</Nergigante.description>
+  <Nergigante.tools.0.label>griffe avant gauche</Nergigante.tools.0.label>
+  <Nergigante.tools.1.label>griffe avant droite</Nergigante.tools.1.label>
+  <Nergigante.tools.3.label>tête</Nergigante.tools.3.label>
+
+  <!-- Kirin -->
+  <Kirin.label>Kirin</Kirin.label>
+  <Kirin.description>Dragons anciens si rarement aperçus que peu de choses sont connues de leur écologie. On dit qu'ils ne font qu'un avec la foudre elle-même.</Kirin.description>
+  <Kirin.tools.0.label>tête</Kirin.tools.0.label>
+  <Kirin.tools.1.label>sabot gauche</Kirin.tools.1.label>
+  <Kirin.tools.2.label>sabot droit</Kirin.tools.2.label>
+
+  <!-- Kulve Taroth -->
+  <KulveTaroth.label>Kulve Taroth</KulveTaroth.label>
+  <KulveTaroth.description>Dragon ancien ressemblant à un grand lézard couvert d'un magnifique manteau doré. Ses cornes massives en spirale sont sa caractéristique principale.</KulveTaroth.description>
+  <KulveTaroth.tools.0.label>griffe avant gauche</KulveTaroth.tools.0.label>
+  <KulveTaroth.tools.1.label>griffe avant droite</KulveTaroth.tools.1.label>
+  <KulveTaroth.tools.3.label>tête</KulveTaroth.tools.3.label>
+
+  <!-- Kulve Taroth -->
+  <KulveTarothNaked.label>Kulve Taroth</KulveTarothNaked.label>
+  <KulveTarothNaked.description>Kulve Taroth sans son manteau d'or. Ses écailles sont or et noires avec des plaques semblables à des émeraudes.</KulveTarothNaked.description>
+  <KulveTarothNaked.tools.0.label>griffe avant gauche</KulveTarothNaked.tools.0.label>
+  <KulveTarothNaked.tools.1.label>griffe avant droite</KulveTarothNaked.tools.1.label>
+  <KulveTarothNaked.tools.3.label>tête</KulveTarothNaked.tools.3.label>
+
+  <!-- Velkhana -->
+  <Velkhana.label>Velkhana</Velkhana.label>
+  <Velkhana.description>Un dragon ancien qui, selon la légende, gèle tout sur son passage. Peut contrôler le froid et créer d'immenses flèches de glace.</Velkhana.description>
+  <Velkhana.tools.0.label>griffe avant gauche</Velkhana.tools.0.label>
+  <Velkhana.tools.1.label>griffe avant droite</Velkhana.tools.1.label>
+  <Velkhana.tools.3.label>tête</Velkhana.tools.3.label>
+
+  <!-- Vaal Hazak -->
+  <VaalHazak.label>Vaal Hazak</VaalHazak.label>
+  <VaalHazak.description>Dragon ancien couvert de chair en décomposition de ses victimes. Peut expulser un gaz toxique sur ses proies pour les neutraliser.</VaalHazak.description>
+  <VaalHazak.tools.0.label>griffe avant gauche</VaalHazak.tools.0.label>
+  <VaalHazak.tools.1.label>griffe avant droite</VaalHazak.tools.1.label>
+  <VaalHazak.tools.3.label>tête</VaalHazak.tools.3.label>
+
+</LanguageData>

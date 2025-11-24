@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Rath -->
+  <Rath.label>Rath</Rath.label>
+  <Rath.description>Wyvernes volantes redoutables connues comme le roi et la reine des cieux. Maîtres du feu, territoriaux et dangereux.</Rath.description>
+  <Rath.tools.0.label>griffe gauche</Rath.tools.0.label>
+  <Rath.tools.1.label>griffe droite</Rath.tools.1.label>
+  <Rath.tools.3.label>tête</Rath.tools.3.label>
+  <Rath.tools.4.label>queue</Rath.tools.4.label>
+
+  <!-- Bazelgeuse -->
+  <Bazelgeuse.label>Bazelgeuse</Bazelgeuse.label>
+  <Bazelgeuse.description>Une wyverne volante explosive qui bombarde ses ennemis avec des écailles explosives. Apparaît souvent de manière inattendue dans les zones de chasse.</Bazelgeuse.description>
+  <Bazelgeuse.tools.0.label>griffe gauche</Bazelgeuse.tools.0.label>
+  <Bazelgeuse.tools.1.label>griffe droite</Bazelgeuse.tools.1.label>
+  <Bazelgeuse.tools.3.label>tête</Bazelgeuse.tools.3.label>
+  <Bazelgeuse.tools.4.label>queue</Bazelgeuse.tools.4.label>
+
+  <!-- Legiana -->
+  <Legiana.label>Legiana</Legiana.label>
+  <Legiana.description>Une wyverne volante élégante qui habite les régions glacées. Utilise le vent et la glace pour dominer les cieux de la toundra.</Legiana.description>
+  <Legiana.tools.0.label>griffe gauche</Legiana.tools.0.label>
+  <Legiana.tools.1.label>griffe droite</Legiana.tools.1.label>
+  <Legiana.tools.3.label>tête</Legiana.tools.3.label>
+  <Legiana.tools.4.label>queue</Legiana.tools.4.label>
+
+  <!-- Diablos -->
+  <Diablos.label>Diablos</Diablos.label>
+  <Diablos.description>Une wyverne volante féroce et territoriale qui habite les déserts. Creuse sous le sable et charge avec une force dévastatrice.</Diablos.description>
+  <Diablos.tools.0.label>griffe gauche</Diablos.tools.0.label>
+  <Diablos.tools.1.label>griffe droite</Diablos.tools.1.label>
+  <Diablos.tools.4.label>queue</Diablos.tools.4.label>
+
+  <!-- Paolumu -->
+  <Paolumu.label>Paolumu</Paolumu.label>
+  <Paolumu.description>Une wyverne volante qui gonfle son cou pour flotter dans les airs. Habite les hautes terres coralliennes.</Paolumu.description>
+  <Paolumu.tools.0.label>griffe gauche</Paolumu.tools.0.label>
+  <Paolumu.tools.1.label>griffe droite</Paolumu.tools.1.label>
+  <Paolumu.tools.3.label>tête</Paolumu.tools.3.label>
+  <Paolumu.tools.4.label>queue</Paolumu.tools.4.label>
+
+  <!-- Nargacuga -->
+  <Nargacuga.label>Nargacuga</Nargacuga.label>
+  <Nargacuga.description>Une wyverne volante furtive avec une fourrure noire de jais. Connue pour sa vitesse incroyable et ses attaques précises.</Nargacuga.description>
+  <Nargacuga.tools.0.label>griffe gauche</Nargacuga.tools.0.label>
+  <Nargacuga.tools.1.label>griffe droite</Nargacuga.tools.1.label>
+  <Nargacuga.tools.3.label>tête</Nargacuga.tools.3.label>
+  <Nargacuga.tools.4.label>queue</Nargacuga.tools.4.label>
+
+  <!-- Tigrex -->
+  <Tigrex.label>Tigrex</Tigrex.label>
+  <Tigrex.description>Une wyverne volante primitive et féroce. Se déplace avec une rapidité brutale et possède un rugissement assourdissant.</Tigrex.description>
+  <Tigrex.tools.0.label>griffe gauche</Tigrex.tools.0.label>
+  <Tigrex.tools.1.label>griffe droite</Tigrex.tools.1.label>
+  <Tigrex.tools.3.label>tête</Tigrex.tools.3.label>
+  <Tigrex.tools.4.label>queue</Tigrex.tools.4.label>
+
+</LanguageData>

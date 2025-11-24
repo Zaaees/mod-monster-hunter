@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mutation: Clawed Hand -->
+  <EtherWyvernHand.label>main griffue</EtherWyvernHand.label>
+  <EtherWyvernHand.description>Les mains de [PAWN_nameDef] ont grandi, chaque doigt arborant une grande griffe courbée à son extrémité.</EtherWyvernHand.description>
+  <EtherWyvernHand.stages.0.label>inconnu</EtherWyvernHand.stages.0.label>
+  <EtherWyvernHand.stages.1.label>adapté</EtherWyvernHand.stages.1.label>
+  <EtherWyvernHand.comps.0.tools.0.label>griffes</EtherWyvernHand.comps.0.tools.0.label>
+
+  <!-- Mutation: Clawed Foot -->
+  <EtherWyvernFoot.label>pied griffu</EtherWyvernFoot.label>
+  <EtherWyvernFoot.description>Les pieds de [PAWN_nameDef] se sont transformés en grands pieds de reptile griffus.</EtherWyvernFoot.description>
+  <EtherWyvernFoot.stages.1.label>adapté</EtherWyvernFoot.stages.1.label>
+
+  <!-- Mutation: Raptor Foot -->
+  <EtherDromeFoot.label>pied de raptor</EtherDromeFoot.label>
+  <EtherDromeFoot.description>Les pieds de [PAWN_nameDef] se sont reformés pour ressembler à ceux d'un raptor, avec un orteil se courbant vers le haut et développant un talon beaucoup plus grand et tranchant.</EtherDromeFoot.description>
+  <EtherDromeFoot.stages.1.label>adapté</EtherDromeFoot.stages.1.label>
+
+  <!-- Mutation: Digitigrade Legs -->
+  <EtherMHDigitigradeLeg.label>digitigrade</EtherMHDigitigradeLeg.label>
+  <EtherMHDigitigradeLeg.description>La forme des jambes de [PAWN_nameDef] rappelle plus celle d'une bête que d'un humain, car iel se tient maintenant sur ses orteils au lieu de son talon, qui s'est allongé. Cela met cependant du ressort dans sa démarche.</EtherMHDigitigradeLeg.description>
+  <EtherMHDigitigradeLeg.stages.0.labelOverride>tordu</EtherMHDigitigradeLeg.stages.0.labelOverride>
+  <EtherMHDigitigradeLeg.stages.0.description>La jambe de [PAWN_nameDef] semble s'être dégradée en quelque chose qui a l'air terriblement inconfortable pour marcher.</EtherMHDigitigradeLeg.stages.0.description>
+  <EtherMHDigitigradeLeg.stages.1.labelOverride>réajustement</EtherMHDigitigradeLeg.stages.1.labelOverride>
+  <EtherMHDigitigradeLeg.stages.1.description>Les os de la jambe de [PAWN_nameDef] grandissent ou raccourcissent selon les besoins. Il sera assez difficile et douloureux de bouger pendant que ce changement se produit.</EtherMHDigitigradeLeg.stages.1.description>
+  <EtherMHDigitigradeLeg.stages.2.label>inconnu</EtherMHDigitigradeLeg.stages.2.label>
+  <EtherMHDigitigradeLeg.stages.2.description>La forme des jambes de [PAWN_nameDef] rappelle plus celle d'une bête que d'un humain, car iel se tient maintenant sur ses orteils au lieu de son talon, qui s'est allongé. Iel aura besoin d'un peu de temps pour s'habituer à la nouvelle forme.</EtherMHDigitigradeLeg.stages.2.description>
+  <EtherMHDigitigradeLeg.stages.3.label>adapté</EtherMHDigitigradeLeg.stages.3.label>
+
+  <!-- Mutation: Elongated Neck -->
+  <EtherMHLongNeck.label>cou allongé</EtherMHLongNeck.label>
+  <EtherMHLongNeck.description>La portion cervicale de la colonne vertébrale de [PAWN_nameDef] s'est beaucoup étirée, lui donnant un long cou flexible de wyverne.</EtherMHLongNeck.description>
+  <EtherMHLongNeck.stages.0.labelOverride>douloureux</EtherMHLongNeck.stages.0.labelOverride>
+  <EtherMHLongNeck.stages.0.description>Le cou de [PAWN_nameDef] est un peu raide et assez douloureux.</EtherMHLongNeck.stages.0.description>
+  <EtherMHLongNeck.stages.1.labelOverride>croissance</EtherMHLongNeck.stages.1.labelOverride>
+  <EtherMHLongNeck.stages.1.description>Le cou de [PAWN_nameDef] s'allonge.</EtherMHLongNeck.stages.1.description>
+
+  <!-- Mutation: Wyvern Torso -->
+  <EtherMHWyvernTorso.label>torse de wyverne</EtherMHWyvernTorso.label>
+  <EtherMHWyvernTorso.description>Un torse surdimensionné, avec une large poitrine et des muscles puissants pour soutenir les muscles des ailes.</EtherMHWyvernTorso.description>
+  <EtherMHWyvernTorso.stages.0.label>initial</EtherMHWyvernTorso.stages.0.label>
+  <EtherMHWyvernTorso.stages.0.description>Le torse de [PAWN_nameDef] semble un peu plus volumineux qu'avant.</EtherMHWyvernTorso.stages.0.description>
+  <EtherMHWyvernTorso.stages.1.label>croissance</EtherMHWyvernTorso.stages.1.label>
+  <EtherMHWyvernTorso.stages.1.description>Le torse de [PAWN_nameDef] est plus robuste et pourrait facilement encaisser un coup ferme. Cependant, la croissance musculaire rapide est trop douloureuse pour que [PAWN_nameDef] soit utile pour l'instant.</EtherMHWyvernTorso.stages.1.description>
+  <EtherMHWyvernTorso.stages.2.description>[PAWN_nameDef] arbore maintenant une large poitrine, avec des os creux et solides et une structure musculaire pour soutenir de grandes ailes.</EtherMHWyvernTorso.stages.2.description>
+
+  <!-- Mutation: Enlarged Torso -->
+  <EtherMHMonsterTorso.label>torse élargi</EtherMHMonsterTorso.label>
+  <EtherMHMonsterTorso.description>Un torse plus volumineux avec des côtes plus épaisses et une cavité thoracique plus grande.</EtherMHMonsterTorso.description>
+  <EtherMHMonsterTorso.stages.0.label>initial</EtherMHMonsterTorso.stages.0.label>
+  <EtherMHMonsterTorso.stages.0.description>Le torse de [PAWN_nameDef] semble un peu plus volumineux qu'avant.</EtherMHMonsterTorso.stages.0.description>
+  <EtherMHMonsterTorso.stages.1.label>croissance</EtherMHMonsterTorso.stages.1.label>
+  <EtherMHMonsterTorso.stages.1.description>Le torse de [PAWN_nameDef] est plus robuste et pourrait facilement encaisser un coup ferme. Cependant, la croissance musculaire rapide est trop douloureuse pour que [PAWN_nameDef] soit utile pour l'instant.</EtherMHMonsterTorso.stages.1.description>
+  <EtherMHMonsterTorso.stages.2.description>[PAWN_nameDef] arbore maintenant une cavité thoracique plus grande avec des os plus robustes.</EtherMHMonsterTorso.stages.2.description>
+
+  <!-- Mutation: Wyvern Eye -->
+  <EtherWyvernEye.label>œil de wyverne</EtherWyvernEye.label>
+  <EtherWyvernEye.description>Les yeux de [PAWN_nameDef] sont devenus ceux d'une wyverne.</EtherWyvernEye.description>
+
+</LanguageData>

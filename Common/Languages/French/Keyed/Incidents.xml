@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Monster appear -->
+	<LetterLabelSmallMonsterAppear>Petit monstre</LetterLabelSmallMonsterAppear>
+	<LetterTextSmallMonsterAppear>Un groupe de {0} s'est aventuré dans la zone.</LetterTextSmallMonsterAppear>
+	<LetterLabelLargeMonsterAppear>Grand monstre</LetterLabelLargeMonsterAppear>
+	<LetterTextLargeMonsterAppear>Un {0} sauvage s'est aventuré dans la zone.</LetterTextLargeMonsterAppear>
+	<LetterTextLargeMonsterAppearWithGroup>Un {0} sauvage s'est aventuré dans la zone. Il est accompagné d'un groupe de {1}.</LetterTextLargeMonsterAppearWithGroup>
+	<LetterLabelElderDragonAppear>Dragon ancien</LetterLabelElderDragonAppear>
+	<LetterTextElderDragonAppear>{0}, un dragon ancien, s'est aventuré dans la zone. Il a effrayé la plupart des autres animaux sauvages.</LetterTextElderDragonAppear>
+	<LetterTextKushalaDaoraAppear>Un dragon ancien - {0} s'est aventuré dans la zone. Sa présence apporte des orages sans fin. Battez-le ou attendez qu'il parte pour que le temps s'améliore.</LetterTextKushalaDaoraAppear>
+	<LetterTextTesukaAppear>Un dragon ancien - {0} s'est aventuré dans la zone. Sa présence élève la température ambiante de la région, créant une vague de chaleur qui durera jusqu'à ce que le monstre parte ou soit vaincu.</LetterTextTesukaAppear>
+	<LetterTextNergiganteAppear>Un dragon ancien - {0} s'est aventuré dans la zone. Espérons qu'il ne choisira pas l'un de vos colons comme prochain repas.</LetterTextNergiganteAppear>
+	<LetterTextKirinAppear>Un dragon ancien - {0} s'est aventuré dans la zone. Il contrôle la foudre, donc si vous choisissez de le combattre, assurez-vous d'être prêt à être foudroyé.</LetterTextKirinAppear>
+	<LetterTextVelkhanaAppear>Un dragon ancien - {0} s'est aventuré dans la zone. Sa présence fait chuter significativement la température de la région, créant une vague de froid. Cela durera jusqu'à ce que le dragon soit vaincu ou qu'il quitte la zone de son propre chef.</LetterTextVelkhanaAppear>
+	<LetterTextVaalHazakAppear>Un dragon ancien - {0} s'est aventuré dans la zone. La décomposition suit ce dragon où qu'il aille. Une pluie toxique couvrira la zone tant que la créature est présente.</LetterTextVaalHazakAppear>
+	<TurfWarLabel>Une guerre de territoire se déroule !</TurfWarLabel>
+
+</LanguageData>

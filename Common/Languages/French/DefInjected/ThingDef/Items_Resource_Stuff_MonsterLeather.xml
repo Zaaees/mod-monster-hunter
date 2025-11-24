@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Base Description -->
+  <MonsterPartsBase.description>Un assortiment de cuir, d'écailles, de plumes, de serres, etc. récupéré d'un monstre.</MonsterPartsBase.description>
+
+  <!-- Monster Leathers -->
+  <Leather_Anjanath.label>cuir d'Anjanath</Leather_Anjanath.label>
+  <Leather_Anjanath.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Anjanath.</Leather_Anjanath.description>
+
+  <Leather_Zinogre.label>cuir de Zinogre</Leather_Zinogre.label>
+  <Leather_Zinogre.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Zinogre.</Leather_Zinogre.description>
+
+  <Leather_Glavenus.label>cuir de Glavenus</Leather_Glavenus.label>
+  <Leather_Glavenus.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Glavenus.</Leather_Glavenus.description>
+
+  <Leather_Aptonoth.label>cuir d'Aptonoth</Leather_Aptonoth.label>
+  <Leather_Aptonoth.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Aptonoth.</Leather_Aptonoth.description>
+
+  <Leather_Kelbi.label>peau de Kelbi</Leather_Kelbi.label>
+  <Leather_Kelbi.description>Peaux récupérées d'un Kelbi. Douce et bleue.</Leather_Kelbi.description>
+
+  <Leather_Gastodon.label>cuir de Gastodon</Leather_Gastodon.label>
+  <Leather_Gastodon.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Gastodon.</Leather_Gastodon.description>
+
+  <Leather_Kestodon.label>cuir de Kestodon</Leather_Kestodon.label>
+  <Leather_Kestodon.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Kestodon.</Leather_Kestodon.description>
+
+  <Leather_Velocidrome.label>cuir de Velocidrome</Leather_Velocidrome.label>
+  <Leather_Velocidrome.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Velocidrome.</Leather_Velocidrome.description>
+
+  <Leather_Barroth.label>cuir de Barroth</Leather_Barroth.label>
+  <Leather_Barroth.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Barroth.</Leather_Barroth.description>
+
+  <Leather_Brachydios.label>cuir de Brachydios</Leather_Brachydios.label>
+  <Leather_Brachydios.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Brachydios.</Leather_Brachydios.description>
+
+  <Leather_Bazel.label>cuir de Bazelgeuse</Leather_Bazel.label>
+  <Leather_Bazel.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Bazelgeuse.</Leather_Bazel.description>
+
+  <Leather_Diablos.label>cuir de Diablos</Leather_Diablos.label>
+  <Leather_Diablos.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Diablos.</Leather_Diablos.description>
+
+  <Leather_Dodogama.label>cuir de Dodogama</Leather_Dodogama.label>
+  <Leather_Dodogama.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Dodogama.</Leather_Dodogama.description>
+
+  <Leather_Zamtrios.label>cuir de Zamtrios</Leather_Zamtrios.label>
+  <Leather_Zamtrios.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Zamtrios.</Leather_Zamtrios.description>
+
+  <Leather_Gendrome.label>cuir de Gendrome</Leather_Gendrome.label>
+  <Leather_Gendrome.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Gendrome.</Leather_Gendrome.description>
+
+  <Leather_Giadrome.label>cuir de Giadrome</Leather_Giadrome.label>
+  <Leather_Giadrome.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Gendrome.</Leather_Giadrome.description>
+
+  <Leather_GreatGirros.label>cuir de Great Girros</Leather_GreatGirros.label>
+  <Leather_GreatGirros.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Great Girros.</Leather_GreatGirros.description>
+
+  <Leather_Girros.label>cuir de Girros</Leather_Girros.label>
+  <Leather_Girros.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Girros.</Leather_Girros.description>
+
+  <Leather_GreatJagras.label>cuir de Great Jagras</Leather_GreatJagras.label>
+  <Leather_GreatJagras.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Great Jagras.</Leather_GreatJagras.description>
+
+  <Leather_Jagras.label>cuir de Jagras</Leather_Jagras.label>
+  <Leather_Jagras.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Jagras.</Leather_Jagras.description>
+
+  <Leather_Shamos.label>cuir de Shamos</Leather_Shamos.label>
+  <Leather_Shamos.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Shamos.</Leather_Shamos.description>
+
+  <Leather_Jaggi.label>cuir de Jaggi</Leather_Jaggi.label>
+  <Leather_Jaggi.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Jaggi.</Leather_Jaggi.description>
+
+  <Leather_Deviljho.label>cuir de Deviljho</Leather_Deviljho.label>
+  <Leather_Deviljho.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Deviljho.</Leather_Deviljho.description>
+
+  <Leather_Kulve.label>cuir de Kulve Taroth</Leather_Kulve.label>
+  <Leather_Kulve.description>Un assortiment de cuir, d'écailles, etc. récupéré d'une Kulve Taroth.</Leather_Kulve.description>
+
+  <Leather_Jyuratodus.label>cuir de Jyuratodus</Leather_Jyuratodus.label>
+  <Leather_Jyuratodus.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Jyuratodus.</Leather_Jyuratodus.description>
+
+  <Leather_Plesioth.label>cuir de Plesioth</Leather_Plesioth.label>
+  <Leather_Plesioth.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Plesioth.</Leather_Plesioth.description>
+
+  <Leather_Nargacuga.label>cuir de Nargacuga</Leather_Nargacuga.label>
+  <Leather_Nargacuga.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Nargacuga.</Leather_Nargacuga.description>
+
+  <Leather_Tigrex.label>cuir de Tigrex</Leather_Tigrex.label>
+  <Leather_Tigrex.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Tigrex.</Leather_Tigrex.description>
+
+  <Leather_KuluYaKu.label>cuir de Kulu Ya-Ku</Leather_KuluYaKu.label>
+  <Leather_KuluYaKu.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Kulu Ya-Ku.</Leather_KuluYaKu.description>
+
+  <Leather_Kushala.label>cuir de Kushala Daora</Leather_Kushala.label>
+  <Leather_Kushala.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Kushala Daora.</Leather_Kushala.description>
+
+  <Leather_Lavasioth.label>cuir de Lavasioth</Leather_Lavasioth.label>
+  <Leather_Lavasioth.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Lavasioth.</Leather_Lavasioth.description>
+
+  <Leather_Legiana.label>cuir de Legiana</Leather_Legiana.label>
+  <Leather_Legiana.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Legiana.</Leather_Legiana.description>
+
+  <Leather_Banbaro.label>cuir de Banbaro</Leather_Banbaro.label>
+  <Leather_Banbaro.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Banbaro.</Leather_Banbaro.description>
+
+  <Leather_Velkhana.label>cuir de Velkhana</Leather_Velkhana.label>
+  <Leather_Velkhana.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Velkhana.</Leather_Velkhana.description>
+
+  <Leather_Vaal.label>cuir de Vaal Hazak</Leather_Vaal.label>
+  <Leather_Vaal.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Vaal Hazak.</Leather_Vaal.description>
+
+  <Leather_Mizutsune.label>cuir de Mizutsune</Leather_Mizutsune.label>
+  <Leather_Mizutsune.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Mizutsune.</Leather_Mizutsune.description>
+
+  <Leather_Paolumu.label>cuir de Paolumu</Leather_Paolumu.label>
+  <Leather_Paolumu.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Paolumu.</Leather_Paolumu.description>
+
+  <Leather_Lunastra.label>cuir de Lunastra</Leather_Lunastra.label>
+  <Leather_Lunastra.description>Un assortiment de cuir, d'écailles, etc. récupéré d'une Lunastra.</Leather_Lunastra.description>
+
+  <Leather_Nergigante.label>cuir de Nergigante</Leather_Nergigante.label>
+  <Leather_Nergigante.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Nergigante.</Leather_Nergigante.description>
+
+  <Leather_Kirin.label>cuir de Kirin</Leather_Kirin.label>
+  <Leather_Kirin.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Kirin.</Leather_Kirin.description>
+
+  <Leather_Odogaron.label>cuir d'Odogaron</Leather_Odogaron.label>
+  <Leather_Odogaron.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Odogaron.</Leather_Odogaron.description>
+
+  <Leather_Pukei.label>cuir de Pukei-Pukei</Leather_Pukei.label>
+  <Leather_Pukei.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Pukei-Pukei.</Leather_Pukei.description>
+
+  <Leather_Rathalos.label>cuir de Rathalos</Leather_Rathalos.label>
+  <Leather_Rathalos.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Rathalos.</Leather_Rathalos.description>
+
+  <Leather_Rathian.label>cuir de Rathian</Leather_Rathian.label>
+  <Leather_Rathian.description>Un assortiment de cuir, d'écailles, etc. récupéré d'une Rathian.</Leather_Rathian.description>
+
+  <Leather_Teostra.label>cuir de Teostra</Leather_Teostra.label>
+  <Leather_Teostra.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Teostra.</Leather_Teostra.description>
+
+  <Leather_TobiKadachi.label>cuir de Tobi-Kadachi</Leather_TobiKadachi.label>
+  <Leather_TobiKadachi.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Tobi-Kadachi.</Leather_TobiKadachi.description>
+
+  <Leather_TzitziYaKu.label>cuir de Tzitzi Ya-Ku</Leather_TzitziYaKu.label>
+  <Leather_TzitziYaKu.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Tzitzi Ya-Ku.</Leather_TzitziYaKu.description>
+
+  <Leather_Yian.label>cuir de Yian Kut-Ku</Leather_Yian.label>
+  <Leather_Yian.description>Un assortiment de cuir, d'écailles, etc. récupéré d'un Yian Kut-Ku.</Leather_Yian.description>
+
+</LanguageData>

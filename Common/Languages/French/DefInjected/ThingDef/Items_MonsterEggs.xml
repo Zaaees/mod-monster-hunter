@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <EggAnjanathFertilized.label>œuf d'Anjanath</EggAnjanathFertilized.label>
+  <EggAnjanathFertilized.description>Un œuf d'Anjanath fertilisé. Si tout se passe bien, il devrait éclore en bébé Anjanath. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggAnjanathFertilized.description>
+
+  <EggAptonothFertilized.label>œuf d'Aptonoth</EggAptonothFertilized.label>
+  <EggAptonothFertilized.description>Un œuf d'Aptonoth. Si tout se passe bien, il devrait éclore en bébé Aptonoth. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggAptonothFertilized.description>
+
+  <EggKutKuFertilized.label>œuf de Yian Kut-Ku</EggKutKuFertilized.label>
+  <EggKutKuFertilized.description>Un œuf de Yian Kut-Ku. Si tout se passe bien, il devrait éclore en bébé Yian Kut-Ku. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggKutKuFertilized.description>
+
+  <EggApcerosFertilized.label>œuf d'Apceros</EggApcerosFertilized.label>
+  <EggApcerosFertilized.description>Un œuf d'Apceros. Si tout se passe bien, il devrait éclore en bébé Apceros. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggApcerosFertilized.description>
+
+  <EggKestodonFertilized.label>œuf de Kestodon</EggKestodonFertilized.label>
+  <EggKestodonFertilized.description>Un œuf de Kestodon. Si tout se passe bien, il devrait éclore en bébé Kestodon. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggKestodonFertilized.description>
+
+  <EggVelocidromeFertilized.label>œuf de Velocidrome</EggVelocidromeFertilized.label>
+  <EggVelocidromeFertilized.description>Un œuf de Velocidrome. Si tout se passe bien, il devrait éclore en bébé Velocidrome. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggVelocidromeFertilized.description>
+
+  <EggGastodonFertilized.label>œuf de Gastodon</EggGastodonFertilized.label>
+  <EggGastodonFertilized.description>Un œuf de Gastodon. Si tout se passe bien, il devrait éclore en bébé Gastodon. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggGastodonFertilized.description>
+
+  <EggBarrothFertilized.label>œuf de Barroth</EggBarrothFertilized.label>
+  <EggBarrothFertilized.description>Un œuf de Barroth fertilisé. Si tout se passe bien, il devrait éclore en bébé Barroth. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggBarrothFertilized.description>
+
+  <EggBrachydiosFertilized.label>œuf de Brachydios</EggBrachydiosFertilized.label>
+  <EggBrachydiosFertilized.description>Un œuf de Brachydios fertilisé. Si tout se passe bien, il devrait éclore en bébé Brachydios. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggBrachydiosFertilized.description>
+
+  <EggNargacugaFertilized.label>œuf de Nargacuga</EggNargacugaFertilized.label>
+  <EggNargacugaFertilized.description>Un œuf de Nargacuga fertilisé. Si tout se passe bien, il devrait éclore en bébé Nargacuga. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggNargacugaFertilized.description>
+
+  <EggTigrexFertilized.label>œuf de Tigrex</EggTigrexFertilized.label>
+  <EggTigrexFertilized.description>Un œuf de Tigrex fertilisé. Si tout se passe bien, il devrait éclore en bébé Tigrex. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggTigrexFertilized.description>
+
+  <EggBazelFertilized.label>œuf de Bazelgeuse</EggBazelFertilized.label>
+  <EggBazelFertilized.description>Un œuf de Bazelgeuse fertilisé. Si tout se passe bien, il devrait éclore en bébé Bazelgeuse. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggBazelFertilized.description>
+
+  <EggDeviljhoFertilized.label>œuf de Deviljho</EggDeviljhoFertilized.label>
+  <EggDeviljhoFertilized.description>Un œuf de Deviljho fertilisé. Si tout se passe bien, il devrait éclore en bébé Deviljho. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggDeviljhoFertilized.description>
+
+  <EggDiablosFertilized.label>œuf de Diablos</EggDiablosFertilized.label>
+  <EggDiablosFertilized.description>Un œuf de Diablos fertilisé. Si tout se passe bien, il devrait éclore en bébé Diablos. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggDiablosFertilized.description>
+
+  <EggBanbaroFertilized.label>œuf de Banbaro</EggBanbaroFertilized.label>
+  <EggBanbaroFertilized.description>Un œuf de Banbaro fertilisé. Si tout se passe bien, il devrait éclore en bébé Banbaro. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggBanbaroFertilized.description>
+
+  <EggDodogamaFertilized.label>œuf de Dodogama</EggDodogamaFertilized.label>
+  <EggDodogamaFertilized.description>Un œuf de Dodogama fertilisé. Si tout se passe bien, il devrait éclore en bébé Dodogama. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggDodogamaFertilized.description>
+
+  <EggGenpreyFertilized.label>œuf de Genprey</EggGenpreyFertilized.label>
+  <EggGenpreyFertilized.description>Un œuf de Genprey. Si tout se passe bien, il devrait éclore en bébé Genprey. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggGenpreyFertilized.description>
+
+  <EggGiapreyFertilized.label>œuf de Giaprey</EggGiapreyFertilized.label>
+  <EggGiapreyFertilized.description>Un œuf de Giaprey. Si tout se passe bien, il devrait éclore en bébé Giaprey. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggGiapreyFertilized.description>
+
+  <EggGirrosFertilized.label>œuf de Girros</EggGirrosFertilized.label>
+  <EggGirrosFertilized.description>Un œuf de Girros. Si tout se passe bien, il devrait éclore en bébé Girros. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggGirrosFertilized.description>
+
+  <EggGGirrosFertilized.label>œuf de Great Girros</EggGGirrosFertilized.label>
+  <EggGGirrosFertilized.description>Un œuf de Great Girros. Si tout se passe bien, il devrait éclore en bébé Great Girros. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggGGirrosFertilized.description>
+
+  <EggJagrasFertilized.label>œuf de Jagras</EggJagrasFertilized.label>
+  <EggJagrasFertilized.description>Un œuf de Jagras. Si tout se passe bien, il devrait éclore en bébé Jagras. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggJagrasFertilized.description>
+
+  <EggJaggiFertilized.label>œuf de Jaggi</EggJaggiFertilized.label>
+  <EggJaggiFertilized.description>Un œuf de Jaggi. Si tout se passe bien, il devrait éclore en bébé Jaggi. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggJaggiFertilized.description>
+
+  <EggShamosFertilized.label>œuf de Shamos</EggShamosFertilized.label>
+  <EggShamosFertilized.description>Un œuf de Shamos. Si tout se passe bien, il devrait éclore en bébé Shamos. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggShamosFertilized.description>
+
+  <EggGJagrasFertilized.label>œuf de Great Jagras</EggGJagrasFertilized.label>
+  <EggGJagrasFertilized.description>Un œuf de Great Jagras. Si tout se passe bien, il devrait éclore en bébé Great Jagras. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggGJagrasFertilized.description>
+
+  <EggJyuraFertilized.label>œuf de Jyuratodus</EggJyuraFertilized.label>
+  <EggJyuraFertilized.description>Un œuf de Jyuratodus. Si tout se passe bien, il devrait éclore en bébé Jyuratodus. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggJyuraFertilized.description>
+
+  <EggKuluFertilized.label>œuf de Kulu Ya-Ku</EggKuluFertilized.label>
+  <EggKuluFertilized.description>Un œuf de Kulu Ya-Ku. Si tout se passe bien, il devrait éclore en bébé Kulu Ya-Ku. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggKuluFertilized.description>
+
+  <EggKushalaFertilized.label>œuf de Kushala Daora</EggKushalaFertilized.label>
+  <EggKushalaFertilized.description>Un œuf de Kushala Daora fertilisé. Si tout se passe bien, il devrait éclore en bébé Kushala Daora. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggKushalaFertilized.description>
+
+  <EggVaalFertilized.label>œuf de Vaal Hazak</EggVaalFertilized.label>
+  <EggVaalFertilized.description>Un œuf de Vaal Hazak fertilisé. Si tout se passe bien, il devrait éclore en bébé Vaal Hazak. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggVaalFertilized.description>
+
+  <EggLavasiothFertilized.label>œuf de Lavasioth</EggLavasiothFertilized.label>
+  <EggLavasiothFertilized.description>Un œuf de Lavasioth fertilisé. Si tout se passe bien, il devrait éclore en bébé Lavasioth. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggLavasiothFertilized.description>
+
+  <EggLegianaFertilized.label>œuf de Legiana</EggLegianaFertilized.label>
+  <EggLegianaFertilized.description>Un œuf de Legiana fertilisé. Si tout se passe bien, il devrait éclore en bébé Legiana. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggLegianaFertilized.description>
+
+  <EggMizutsuneFertilized.label>œuf de Mizutsune</EggMizutsuneFertilized.label>
+  <EggMizutsuneFertilized.description>Un œuf de Mizutsune fertilisé. Si tout se passe bien, il devrait éclore en bébé Mizutsune. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggMizutsuneFertilized.description>
+
+  <EggPlesiothFertilized.label>œuf de Plesioth</EggPlesiothFertilized.label>
+  <EggPlesiothFertilized.description>Un œuf de Plesioth fertilisé. Si tout se passe bien, il devrait éclore en bébé Plesioth. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggPlesiothFertilized.description>
+
+  <EggTesukaFertilized.label>œuf de Lunastra</EggTesukaFertilized.label>
+  <EggTesukaFertilized.description>Un œuf de Lunastra fertilisé. Si tout se passe bien, il devrait éclore en bébé Lunastra. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggTesukaFertilized.description>
+
+  <EggNergiganteFertilized.label>œuf de Nergigante</EggNergiganteFertilized.label>
+  <EggNergiganteFertilized.description>Un œuf de Nergigante fertilisé. Si tout se passe bien, il devrait éclore en bébé Nergigante. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggNergiganteFertilized.description>
+
+  <EggVelkhanaFertilized.label>œuf de Velkhana</EggVelkhanaFertilized.label>
+  <EggVelkhanaFertilized.description>Un œuf de Velkhana fertilisé. Si tout se passe bien, il devrait éclore en bébé Velkhana. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggVelkhanaFertilized.description>
+
+  <EggKulveFertilized.label>œuf de Kulve Taroth</EggKulveFertilized.label>
+  <EggKulveFertilized.description>Un œuf de Kulve Taroth fertilisé. Si tout se passe bien, il devrait éclore en bébé Kulve Taroth. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggKulveFertilized.description>
+
+  <EggOdogaronFertilized.label>œuf d'Odogaron</EggOdogaronFertilized.label>
+  <EggOdogaronFertilized.description>Un œuf d'Odogaron fertilisé. Si tout se passe bien, il devrait éclore en bébé Odogaron. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggOdogaronFertilized.description>
+
+  <EggPaolumuFertilized.label>œuf de Paolumu</EggPaolumuFertilized.label>
+  <EggPaolumuFertilized.description>Un œuf de Paolumu fertilisé. Si tout se passe bien, il devrait éclore en bébé Paolumu. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggPaolumuFertilized.description>
+
+  <EggPukeiFertilized.label>œuf de Pukei-Pukei</EggPukeiFertilized.label>
+  <EggPukeiFertilized.description>Un œuf de Pukei-Pukei fertilisé. Si tout se passe bien, il devrait éclore en bébé Pukei-Pukei. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggPukeiFertilized.description>
+
+  <EggRathFertilized.label>œuf de Rathian</EggRathFertilized.label>
+  <EggRathFertilized.description>Un œuf de Rathian fertilisé. Si tout se passe bien, il devrait éclore en bébé Rathian. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggRathFertilized.description>
+
+  <EggRhenoplosFertilized.label>œuf de Rhenoplos</EggRhenoplosFertilized.label>
+  <EggRhenoplosFertilized.description>Un œuf de Rhenoplos. Si tout se passe bien, il devrait éclore en bébé Rhenoplos. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggRhenoplosFertilized.description>
+
+  <EggSlagtothFertilized.label>œuf de Slagtoth</EggSlagtothFertilized.label>
+  <EggSlagtothFertilized.description>Un œuf de Slagtoth. Si tout se passe bien, il devrait éclore en bébé Slagtoth. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggSlagtothFertilized.description>
+
+  <EggTobiFertilized.label>œuf de Tobi-Kadachi</EggTobiFertilized.label>
+  <EggTobiFertilized.description>Un œuf de Tobi-Kadachi fertilisé. Si tout se passe bien, il devrait éclore en bébé Tobi-Kadachi. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggTobiFertilized.description>
+
+  <EggTzitziFertilized.label>œuf de Tzitzi Ya-Ku</EggTzitziFertilized.label>
+  <EggTzitziFertilized.description>Un œuf de Tzitzi Ya-Ku fertilisé. Si tout se passe bien, il devrait éclore en bébé Tzitzi Ya-Ku. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggTzitziFertilized.description>
+
+  <EggZinogreFertilized.label>œuf de Zinogre</EggZinogreFertilized.label>
+  <EggZinogreFertilized.description>Un œuf de Zinogre fertilisé. Si tout se passe bien, il devrait éclore en bébé Zinogre. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggZinogreFertilized.description>
+
+  <EggZamtriosFertilized.label>œuf de Zamtrios</EggZamtriosFertilized.label>
+  <EggZamtriosFertilized.description>Un œuf de Zamtrios fertilisé. Si tout se passe bien, il devrait éclore en bébé Zamtrios. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggZamtriosFertilized.description>
+
+  <EggGlavenusFertilized.label>œuf de Glavenus</EggGlavenusFertilized.label>
+  <EggGlavenusFertilized.description>Un œuf de Glavenus fertilisé. Si tout se passe bien, il devrait éclore en bébé Glavenus. Il peut être mangé cru, mais c'est bien meilleur cuit.</EggGlavenusFertilized.description>
+
+</LanguageData>

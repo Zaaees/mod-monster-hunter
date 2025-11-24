@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Zinogre Face Thoughts -->
+  <EtherZinogreSnout.stages.0.label>visage de Zinogre</EtherZinogreSnout.stages.0.label>
+  <EtherZinogreSnout.stages.0.description>Pourquoi tout est si pointu ?</EtherZinogreSnout.stages.0.description>
+  <EtherZinogreSnout.stages.1.label>visage de Zinogre</EtherZinogreSnout.stages.1.label>
+  <EtherZinogreSnout.stages.1.description>Ça me donne envie de hurler !</EtherZinogreSnout.stages.1.description>
+  <EtherZinogreSnout.stages.2.label>visage de Zinogre</EtherZinogreSnout.stages.2.label>
+  <EtherZinogreSnout.stages.2.description>Visage de loup-dragon ? En quoi diable suis-je en train de me transformer ?!</EtherZinogreSnout.stages.2.description>
+
+  <!-- Zinogre Horns Thoughts -->
+  <EtherZinogreHorns.stages.0.label>cornes de Zinogre</EtherZinogreHorns.stages.0.label>
+  <EtherZinogreHorns.stages.0.description>C'est distrayant de les voir au-dessus tout le temps.</EtherZinogreHorns.stages.0.description>
+  <EtherZinogreHorns.stages.1.label>cornes de Zinogre</EtherZinogreHorns.stages.1.label>
+  <EtherZinogreHorns.stages.1.description>Élégant !</EtherZinogreHorns.stages.1.description>
+  <EtherZinogreHorns.stages.2.label>cornes de Zinogre</EtherZinogreHorns.stages.2.label>
+  <EtherZinogreHorns.stages.2.description>Des cornes ?! Pourquoi ?!</EtherZinogreHorns.stages.2.description>
+
+  <!-- Zinogre Tail Thoughts -->
+  <EtherZinogreTail.stages.0.label>queue de Zinogre</EtherZinogreTail.stages.0.label>
+  <EtherZinogreTail.stages.0.description>Cette chose est sacrément lourde...</EtherZinogreTail.stages.0.description>
+  <EtherZinogreTail.stages.1.label>queue de Zinogre</EtherZinogreTail.stages.1.label>
+  <EtherZinogreTail.stages.1.description>Whoa... Cette chose est géniale !</EtherZinogreTail.stages.1.description>
+  <EtherZinogreTail.stages.2.label>queue de Zinogre</EtherZinogreTail.stages.2.label>
+  <EtherZinogreTail.stages.2.description>C'est quoi ce genre de queue ?! Enlevez-la !</EtherZinogreTail.stages.2.description>
+
+  <!-- Zinogre Ears Thoughts -->
+  <EtherZinogreEar.stages.0.label>oreilles de Zinogre</EtherZinogreEar.stages.0.label>
+  <EtherZinogreEar.stages.0.description>Ces nouvelles oreilles ont l'air étranges, mais au moins j'entends assez bien.</EtherZinogreEar.stages.0.description>
+  <EtherZinogreEar.stages.1.label>oreilles de Zinogre</EtherZinogreEar.stages.1.label>
+  <EtherZinogreEar.stages.1.description>Oreilles pointues cool. Je les adore !</EtherZinogreEar.stages.1.description>
+  <EtherZinogreEar.stages.2.label>oreilles de Zinogre</EtherZinogreEar.stages.2.label>
+  <EtherZinogreEar.stages.2.description>Je peux vous entendre rire là-bas. Ce n'est pas drôle !</EtherZinogreEar.stages.2.description>
+
+  <!-- Zinogre Transformation Memories -->
+  <ZinogreTransformationMemory.stages.0.label>transformé</ZinogreTransformationMemory.stages.0.label>
+  <ZinogreTransformationMemory.stages.0.description>Cette sensation constante de charge statique va prendre un peu de temps pour m'y habituer.</ZinogreTransformationMemory.stages.0.description>
+  <ZinogreTransformationMemory.stages.1.label>transformé</ZinogreTransformationMemory.stages.1.label>
+  <ZinogreTransformationMemory.stages.1.description>Je me sens si puissant ! Zzap !</ZinogreTransformationMemory.stages.1.description>
+  <ZinogreTransformationMemory.stages.2.label>transformé</ZinogreTransformationMemory.stages.2.label>
+  <ZinogreTransformationMemory.stages.2.description>C'est quoi ce bordel ?! Je vais m'électrocuter !</ZinogreTransformationMemory.stages.2.description>
+  <ZinogreTransformationMemory.stages.3.label>transformé</ZinogreTransformationMemory.stages.3.label>
+  <ZinogreTransformationMemory.stages.3.description>Intéressant... Je peux faire marcher ça.</ZinogreTransformationMemory.stages.3.description>
+
+  <!-- Zinogre Reversion Memories -->
+  <ZinogreRevertedMemory.stages.0.label>redevenu normal</ZinogreRevertedMemory.stages.0.label>
+  <ZinogreRevertedMemory.stages.0.description>De retour à la normale... Plus d'électricité.</ZinogreRevertedMemory.stages.0.description>
+  <ZinogreRevertedMemory.stages.1.label>redevenu normal</ZinogreRevertedMemory.stages.1.label>
+  <ZinogreRevertedMemory.stages.1.description>Aww... J'aimais bien lancer des éclairs.</ZinogreRevertedMemory.stages.1.description>
+  <ZinogreRevertedMemory.stages.2.label>redevenu normal</ZinogreRevertedMemory.stages.2.label>
+  <ZinogreRevertedMemory.stages.2.description>Oh Dieu merci...</ZinogreRevertedMemory.stages.2.description>
+  <ZinogreRevertedMemory.stages.3.label>redevenu normal</ZinogreRevertedMemory.stages.3.label>
+  <ZinogreRevertedMemory.stages.3.description>J'ai un peu apprécié ça... Tant pis.</ZinogreRevertedMemory.stages.3.description>
+
+</LanguageData>

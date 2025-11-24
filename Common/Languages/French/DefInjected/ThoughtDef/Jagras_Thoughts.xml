@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Jagras Face Thoughts -->
+  <EtherJagrasSnout.stages.0.label>visage de Jagras</EtherJagrasSnout.stages.0.label>
+  <EtherJagrasSnout.stages.0.description>C'est si sec et rugueux... Et c'est quoi ce motif autour des yeux ?</EtherJagrasSnout.stages.0.description>
+  <EtherJagrasSnout.stages.1.label>visage de Jagras</EtherJagrasSnout.stages.1.label>
+  <EtherJagrasSnout.stages.1.description>Grande bouche pour grande bouffe.</EtherJagrasSnout.stages.1.description>
+  <EtherJagrasSnout.stages.2.label>visage de Jagras</EtherJagrasSnout.stages.2.label>
+  <EtherJagrasSnout.stages.2.description>Beurk ! Je dois manger avec cette chose écailleuse et dégoûtante !</EtherJagrasSnout.stages.2.description>
+
+  <!-- Jagras Dreads Thoughts -->
+  <EtherJagrasDreads.stages.0.label>dreadlocks</EtherJagrasDreads.stages.0.label>
+  <EtherJagrasDreads.stages.0.description>Pas vraiment mon style.</EtherJagrasDreads.stages.0.description>
+  <EtherJagrasDreads.stages.1.label>dreadlocks</EtherJagrasDreads.stages.1.label>
+  <EtherJagrasDreads.stages.1.description>Il était plus que temps que je change de coiffure.</EtherJagrasDreads.stages.1.description>
+  <EtherJagrasDreads.stages.2.label>dreadlocks</EtherJagrasDreads.stages.2.label>
+  <EtherJagrasDreads.stages.2.description>C'est... Étonnamment normal ? Attendez, c'est quoi qui dépasse des cheveux ?</EtherJagrasDreads.stages.2.description>
+
+  <!-- Jagras Tail Thoughts -->
+  <EtherJagrasTail.stages.0.label>queue de Jagras</EtherJagrasTail.stages.0.label>
+  <EtherJagrasTail.stages.0.description>Cette chose se coince souvent dans les portes, mais au moins elle m'aide un peu avec mon équilibre.</EtherJagrasTail.stages.0.description>
+  <EtherJagrasTail.stages.1.label>queue de Jagras</EtherJagrasTail.stages.1.label>
+  <EtherJagrasTail.stages.1.description>Je peux utiliser ça pour fouetter les gens comme un vrai iguane ! Peut-être que ça m'aidera à nager aussi...</EtherJagrasTail.stages.1.description>
+  <EtherJagrasTail.stages.2.label>queue de Jagras</EtherJagrasTail.stages.2.label>
+  <EtherJagrasTail.stages.2.description>Les queues de lézard repoussent-elles si je faisais retirer cette chose ?</EtherJagrasTail.stages.2.description>
+
+  <!-- Jagras Transformation Memories -->
+  <JagrasTransformationMemory.stages.0.label>transformé</JagrasTransformationMemory.stages.0.label>
+  <JagrasTransformationMemory.stages.0.description>Mince j'ai faim...</JagrasTransformationMemory.stages.0.description>
+  <JagrasTransformationMemory.stages.1.label>transformé</JagrasTransformationMemory.stages.1.label>
+  <JagrasTransformationMemory.stages.1.description>Mec ! Meeec !</JagrasTransformationMemory.stages.1.description>
+  <JagrasTransformationMemory.stages.2.label>transformé</JagrasTransformationMemory.stages.2.label>
+  <JagrasTransformationMemory.stages.2.description>J'ai l'air d'une rockstar discount transformée en iguane. C'est humiliant.</JagrasTransformationMemory.stages.2.description>
+  <JagrasTransformationMemory.stages.3.label>transformé</JagrasTransformationMemory.stages.3.label>
+  <JagrasTransformationMemory.stages.3.description>Je vais prendre un snack, puis faire une sieste au soleil.</JagrasTransformationMemory.stages.3.description>
+
+  <!-- Jagras Reversion Memories -->
+  <JagrasRevertedMemory.stages.0.label>redevenu normal</JagrasRevertedMemory.stages.0.label>
+  <JagrasRevertedMemory.stages.0.description>De retour à la normale... Plus de faim éternelle.</JagrasRevertedMemory.stages.0.description>
+  <JagrasRevertedMemory.stages.1.label>redevenu normal</JagrasRevertedMemory.stages.1.label>
+  <JagrasRevertedMemory.stages.1.description>Mec ! Pas cool !</JagrasRevertedMemory.stages.1.description>
+  <JagrasRevertedMemory.stages.2.label>redevenu normal</JagrasRevertedMemory.stages.2.label>
+  <JagrasRevertedMemory.stages.2.description>Oh Dieu merci...</JagrasRevertedMemory.stages.2.description>
+  <JagrasRevertedMemory.stages.3.label>redevenu normal</JagrasRevertedMemory.stages.3.label>
+  <JagrasRevertedMemory.stages.3.description>J'ai un peu apprécié ça... Tant pis.</JagrasRevertedMemory.stages.3.description>
+
+</LanguageData>

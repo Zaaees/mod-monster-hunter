@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- MH Smithy Work Giver -->
+  <DoBillsMHSmithy.label>forger de l'équipement à la forge de chasseur</DoBillsMHSmithy.label>
+  <DoBillsMHSmithy.verb>fabriquer</DoBillsMHSmithy.verb>
+  <DoBillsMHSmithy.gerund>fabriquer à la</DoBillsMHSmithy.gerund>
+
+</LanguageData>
