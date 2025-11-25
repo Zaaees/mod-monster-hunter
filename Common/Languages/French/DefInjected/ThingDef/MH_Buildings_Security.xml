@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Turret_MHBallista.label>tourelle baliste</Turret_MHBallista.label>
+  <Turret_MHBallista.description>Une baliste semi-automatique sur un support rotatif. Elle tire lentement mais frappe fort. Sa haute capacité de pénétration d'armure donne un avantage lors des combats contre les grands monstres.</Turret_MHBallista.description>
+
+  <Gun_MHRWBallistaGun.label>carreau de baliste</Gun_MHRWBallistaGun.label>
+  <Gun_MHRWBallistaGun.description>Tourelle baliste en bois.</Gun_MHRWBallistaGun.description>
+
+  <MHRW_BallistaBolt.label>carreau de baliste</MHRW_BallistaBolt.label>
+
+</LanguageData>

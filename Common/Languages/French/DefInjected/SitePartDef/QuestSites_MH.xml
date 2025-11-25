@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Site Part Def -->
+  <MHRW_MonsterEncounterCoreBase.label>observation de monstre</MHRW_MonsterEncounterCoreBase.label>
+  <MHRW_MonsterEncounterCoreBase.description>L'endroit où un monstre rôde.</MHRW_MonsterEncounterCoreBase.description>
+  <MHRW_MonsterEncounterCoreBase.approachOrderString>Attaquer {0}</MHRW_MonsterEncounterCoreBase.approachOrderString>
+  <MHRW_MonsterEncounterCoreBase.approachingReportString>Attaque de {0}</MHRW_MonsterEncounterCoreBase.approachingReportString>
+
+</LanguageData>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anjanath Face Thoughts -->
+  <EtherAnjanathSnout.stages.0.label>visage d'Anjanath</EtherAnjanathSnout.stages.0.label>
+  <EtherAnjanathSnout.stages.0.description>Ces dents sont effrayantes. Aussi mon nez brûle comme l'enfer.</EtherAnjanathSnout.stages.0.description>
+  <EtherAnjanathSnout.stages.1.label>visage d'Anjanath</EtherAnjanathSnout.stages.1.label>
+  <EtherAnjanathSnout.stages.1.description>ROOAARR !</EtherAnjanathSnout.stages.1.description>
+  <EtherAnjanathSnout.stages.2.label>visage d'Anjanath</EtherAnjanathSnout.stages.2.label>
+  <EtherAnjanathSnout.stages.2.description>Oh mon dieu j'ai besoin d'éternuer... Dois... Pas...</EtherAnjanathSnout.stages.2.description>
+
+  <!-- Anjanath Tail Thoughts -->
+  <EtherAnjanathTail.stages.0.label>queue d'Anjanath</EtherAnjanathTail.stages.0.label>
+  <EtherAnjanathTail.stages.0.description>Bien sûr ça aide avec mon équilibre et tout mais bon sang que c'est une nuisance.</EtherAnjanathTail.stages.0.description>
+  <EtherAnjanathTail.stages.1.label>queue d'Anjanath</EtherAnjanathTail.stages.1.label>
+  <EtherAnjanathTail.stages.1.description>Belle queue forte avec du duvet doux dessus. Qu'est-ce qu'on peut demander de plus ?</EtherAnjanathTail.stages.1.description>
+  <EtherAnjanathTail.stages.2.label>queue d'Anjanath</EtherAnjanathTail.stages.2.label>
+  <EtherAnjanathTail.stages.2.description>Comment diable suis-je censé m'asseoir avec ce truc ?</EtherAnjanathTail.stages.2.description>
+
+  <!-- Anjanath Transformation Memories -->
+  <AnjanathTransformationMemory.stages.0.label>transformé</AnjanathTransformationMemory.stages.0.label>
+  <AnjanathTransformationMemory.stages.0.description>Je suis un gros T-Rex rose, et je ne me sens pas bien.</AnjanathTransformationMemory.stages.0.description>
+  <AnjanathTransformationMemory.stages.1.label>transformé</AnjanathTransformationMemory.stages.1.label>
+  <AnjanathTransformationMemory.stages.1.description>Stomp, stomp ! Haha !</AnjanathTransformationMemory.stages.1.description>
+  <AnjanathTransformationMemory.stages.2.label>transformé</AnjanathTransformationMemory.stages.2.label>
+  <AnjanathTransformationMemory.stages.2.description>Mon nez brûle ! Ça fait mal ! À l'aide !</AnjanathTransformationMemory.stages.2.description>
+  <AnjanathTransformationMemory.stages.3.label>transformé</AnjanathTransformationMemory.stages.3.label>
+  <AnjanathTransformationMemory.stages.3.description>Gros dinosaure rose, ouiii. Ma proie ne saura pas ce qui l'a frappée.</AnjanathTransformationMemory.stages.3.description>
+
+  <!-- Anjanath Reversion Memories -->
+  <AnjanathRevertedMemory.stages.0.label>redevenu normal</AnjanathRevertedMemory.stages.0.label>
+  <AnjanathRevertedMemory.stages.0.description>Ouf... Je pensais que mon nez allait exploser.</AnjanathRevertedMemory.stages.0.description>
+  <AnjanathRevertedMemory.stages.1.label>redevenu normal</AnjanathRevertedMemory.stages.1.label>
+  <AnjanathRevertedMemory.stages.1.description>Plus d'écrasements...</AnjanathRevertedMemory.stages.1.description>
+  <AnjanathRevertedMemory.stages.2.label>redevenu normal</AnjanathRevertedMemory.stages.2.label>
+  <AnjanathRevertedMemory.stages.2.description>Je suis redevenu moi ! Oui !</AnjanathRevertedMemory.stages.2.description>
+  <AnjanathRevertedMemory.stages.3.label>redevenu normal</AnjanathRevertedMemory.stages.3.label>
+  <AnjanathRevertedMemory.stages.3.description>J'ai un peu apprécié ça... Tant pis.</AnjanathRevertedMemory.stages.3.description>
+
+</LanguageData>

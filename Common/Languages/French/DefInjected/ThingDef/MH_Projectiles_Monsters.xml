@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Monster Projectiles -->
+  <MH_Projectile_Fireball.label>boule de feu</MH_Projectile_Fireball.label>
+  <MH_Projectile_Fireball_Big.label>boule de feu</MH_Projectile_Fireball_Big.label>
+  <MH_Projectile_IceSpit.label>crachat de glace</MH_Projectile_IceSpit.label>
+  <MH_Projectile_ParaSpit.label>crachat paralysant</MH_Projectile_ParaSpit.label>
+  <MH_Projectile_IceSpitNonExplosive.label>crachat de glace</MH_Projectile_IceSpitNonExplosive.label>
+  <MH_Projectile_PoisonSpit.label>crachat de poison</MH_Projectile_PoisonSpit.label>
+  <MH_Projectile_WindBlast.label>souffle de vent</MH_Projectile_WindBlast.label>
+  <MH_Projectile_MudSpit.label>crachat de boue</MH_Projectile_MudSpit.label>
+  <MH_Projectile_Bazelbomb.label>écaille explosive</MH_Projectile_Bazelbomb.label>
+  <MH_Projectile_MizuBubble.label>bulle</MH_Projectile_MizuBubble.label>
+  <MH_Projectile_Thunderspawn.label>foudre</MH_Projectile_Thunderspawn.label>
+  <MH_Projectile_Tornadospawn.label>souffle de tornade</MH_Projectile_Tornadospawn.label>
+  <TzitziFlash.label>éclair</TzitziFlash.label>
+
+</LanguageData>

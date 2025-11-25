@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Tobi-Kadachi -->
+  <TobiKadachi.label>Tobi-Kadachi</TobiKadachi.label>
+  <TobiKadachi.description>Une wyverne aux crocs qui génère de l'électricité. Se déplace avec agilité à travers les arbres et attaque avec des charges électriques puissantes.</TobiKadachi.description>
+  <TobiKadachi.tools.0.label>griffe gauche</TobiKadachi.tools.0.label>
+  <TobiKadachi.tools.1.label>griffe droite</TobiKadachi.tools.1.label>
+  <TobiKadachi.tools.3.label>tête</TobiKadachi.tools.3.label>
+
+  <!-- Great Jagras -->
+  <GreatJagras.label>Great Jagras</GreatJagras.label>
+  <GreatJagras.description>Le chef alpha de la meute de Jagras. Plus grand et plus fort que ses congénères, capable d'avaler des proies entières.</GreatJagras.description>
+  <GreatJagras.tools.0.label>griffe gauche</GreatJagras.tools.0.label>
+  <GreatJagras.tools.1.label>griffe droite</GreatJagras.tools.1.label>
+  <GreatJagras.tools.3.label>tête</GreatJagras.tools.3.label>
+
+  <!-- Great Girros -->
+  <GreatGirros.label>Great Girros</GreatGirros.label>
+  <GreatGirros.description>Le leader de la meute de Girros. Utilise ses crocs paralysants et commande sa meute pour submerger des proies plus grandes.</GreatGirros.description>
+  <GreatGirros.tools.0.label>griffe gauche</GreatGirros.tools.0.label>
+  <GreatGirros.tools.1.label>griffe droite</GreatGirros.tools.1.label>
+  <GreatGirros.tools.3.label>tête</GreatGirros.tools.3.label>
+
+  <!-- Dodogama -->
+  <Dodogama.label>Dodogama</Dodogama.label>
+  <Dodogama.description>Une wyverne aux crocs qui se nourrit de roches. Stocke des minerais dans son estomac et peut cracher des boules de lave explosive.</Dodogama.description>
+  <Dodogama.tools.0.label>griffe gauche</Dodogama.tools.0.label>
+  <Dodogama.tools.1.label>griffe droite</Dodogama.tools.1.label>
+  <Dodogama.tools.3.label>tête</Dodogama.tools.3.label>
+
+  <!-- MH_DodogamaBomb -->
+  <MH_DodogamaBomb.label>MH_DodogamaBomb</MH_DodogamaBomb.label>
+  <MH_DodogamaBomb.description>Un monstre redoutable de l'univers de Monster Hunter.</MH_DodogamaBomb.description>
+
+  <!-- Odogaron -->
+  <Odogaron.label>Odogaron</Odogaron.label>
+  <Odogaron.description>Un prédateur féroce qui habite le Val putride. Connu pour sa vitesse et sa férocité incroyables dans la bataille.</Odogaron.description>
+  <Odogaron.tools.0.label>griffe gauche</Odogaron.tools.0.label>
+  <Odogaron.tools.1.label>griffe droite</Odogaron.tools.1.label>
+  <Odogaron.tools.3.label>tête</Odogaron.tools.3.label>
+
+  <!-- Mizutsune -->
+  <Mizutsune.label>Mizutsune</Mizutsune.label>
+  <Mizutsune.description>Une wyverne aux crocs gracieuse qui produit une mousse glissante. Se déplace avec une fluidité élégante et utilise l'eau dans ses attaques.</Mizutsune.description>
+  <Mizutsune.tools.0.label>griffe gauche</Mizutsune.tools.0.label>
+  <Mizutsune.tools.1.label>griffe droite</Mizutsune.tools.1.label>
+  <Mizutsune.tools.3.label>tête</Mizutsune.tools.3.label>
+
+  <!-- Zinogre -->
+  <Zinogre.label>Zinogre</Zinogre.label>
+  <Zinogre.description>Une puissante wyverne aux crocs qui commande la foudre. Se charge d'électricité pendant le combat, devenant plus dangereux avec le temps.</Zinogre.description>
+  <Zinogre.tools.0.label>griffe gauche</Zinogre.tools.0.label>
+  <Zinogre.tools.1.label>griffe droite</Zinogre.tools.1.label>
+  <Zinogre.tools.3.label>tête</Zinogre.tools.3.label>
+
+  <!-- Zamtrios -->
+  <Zamtrios.label>Zamtrios</Zamtrios.label>
+  <Zamtrios.description>Une wyverne aux crocs amphibie qui peut gonfler son corps. Habite les régions glacées et peut utiliser des attaques de glace.</Zamtrios.description>
+  <Zamtrios.tools.0.label>griffe gauche</Zamtrios.tools.0.label>
+  <Zamtrios.tools.1.label>griffe droite</Zamtrios.tools.1.label>
+  <Zamtrios.tools.3.label>tête</Zamtrios.tools.3.label>
+
+</LanguageData>

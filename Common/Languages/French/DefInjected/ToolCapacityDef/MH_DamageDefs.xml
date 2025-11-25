@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Tool capacities -->
+  <MHParalisisBite.label>morsure paralysante</MHParalisisBite.label>
+  <MHPoisonCut.label>coupure empoisonnée</MHPoisonCut.label>
+  <MHPoisonStab.label>coup empoisonné</MHPoisonStab.label>
+  <MHPoisonBlunt.label>frappe empoisonnée</MHPoisonBlunt.label>
+  <MHParalisisCut.label>coupure paralysante</MHParalisisCut.label>
+  <MHParalisisBlunt.label>frappe paralysante</MHParalisisBlunt.label>
+  <MHWaterCut.label>coupure</MHWaterCut.label>
+  <MHWaterBlunt.label>frappe</MHWaterBlunt.label>
+  <MHIceCut.label>coupure</MHIceCut.label>
+  <MHIceBlunt.label>frappe</MHIceBlunt.label>
+  <MHBurnBlunt.label>frappe de feu</MHBurnBlunt.label>
+  <MHFlameBlunt.label>frappe de feu</MHFlameBlunt.label>
+  <MHBurnCut.label>coupure</MHBurnCut.label>
+  <MHFlameCut.label>coupure</MHFlameCut.label>
+
+</LanguageData>

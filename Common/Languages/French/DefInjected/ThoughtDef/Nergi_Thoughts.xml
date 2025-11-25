@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Nergi Snout Thoughts -->
+  <EtherNergiSnout.stages.0.label>museau de Nergigante</EtherNergiSnout.stages.0.label>
+  <EtherNergiSnout.stages.0.description>J'ai l'air en permanence en colère...</EtherNergiSnout.stages.0.description>
+  <EtherNergiSnout.stages.1.label>museau de Nergigante</EtherNergiSnout.stages.1.label>
+  <EtherNergiSnout.stages.1.description>Si les regards pouvaient tuer, ce serait celui-là.</EtherNergiSnout.stages.1.description>
+  <EtherNergiSnout.stages.2.label>museau de Nergigante</EtherNergiSnout.stages.2.label>
+  <EtherNergiSnout.stages.2.description>Mon pauvre visage ! J'ai l'air hideux !</EtherNergiSnout.stages.2.description>
+
+  <!-- Nergi Horns Thoughts -->
+  <EtherNergiHorns.stages.0.label>cornes de Nergigante</EtherNergiHorns.stages.0.label>
+  <EtherNergiHorns.stages.0.description>Je peux à peine passer à travers les portes avec ça.</EtherNergiHorns.stages.0.description>
+  <EtherNergiHorns.stages.1.label>cornes de Nergigante</EtherNergiHorns.stages.1.label>
+  <EtherNergiHorns.stages.1.description>Elles sont magnifiques !</EtherNergiHorns.stages.1.description>
+  <EtherNergiHorns.stages.2.label>cornes de Nergigante</EtherNergiHorns.stages.2.label>
+  <EtherNergiHorns.stages.2.description>Bon sang, pourquoi des cornes ?!</EtherNergiHorns.stages.2.description>
+
+  <!-- Nergi Tail Thoughts -->
+  <EtherNergiTail.stages.0.label>queue de Nergigante</EtherNergiTail.stages.0.label>
+  <EtherNergiTail.stages.0.description>Il y a des pointes sur la queue aussi... Super...</EtherNergiTail.stages.0.description>
+  <EtherNergiTail.stages.1.label>queue de Nergigante</EtherNergiTail.stages.1.label>
+  <EtherNergiTail.stages.1.description>Queue épineuse, génial ouais !</EtherNergiTail.stages.1.description>
+  <EtherNergiTail.stages.2.label>queue de Nergigante</EtherNergiTail.stages.2.label>
+  <EtherNergiTail.stages.2.description>Gah ! Stupide queue !</EtherNergiTail.stages.2.description>
+
+  <!-- Nergi Wings Thoughts -->
+  <EtherNergiWings.stages.0.label>ailes de Nergigante</EtherNergiWings.stages.0.label>
+  <EtherNergiWings.stages.0.description>C'est quoi tout ce poids derrière ?</EtherNergiWings.stages.0.description>
+  <EtherNergiWings.stages.1.label>ailes de Nergigante</EtherNergiWings.stages.1.label>
+  <EtherNergiWings.stages.1.description>Ça me fait avoir l'air si intimidant !</EtherNergiWings.stages.1.description>
+  <EtherNergiWings.stages.2.label>ailes de Nergigante</EtherNergiWings.stages.2.label>
+  <EtherNergiWings.stages.2.description>Super, encore plus de trucs pour se coincer partout...</EtherNergiWings.stages.2.description>
+
+  <!-- Nergi Spikes Thoughts -->
+  <EtherNergiSpikes.stages.0.label>épines de Nergigante</EtherNergiSpikes.stages.0.label>
+  <EtherNergiSpikes.stages.0.description>Je suis sûr que mes vêtements vont adorer...</EtherNergiSpikes.stages.0.description>
+  <EtherNergiSpikes.stages.1.label>épines de Nergigante</EtherNergiSpikes.stages.1.label>
+  <EtherNergiSpikes.stages.1.description>Ha ! Restez à distance !</EtherNergiSpikes.stages.1.description>
+  <EtherNergiSpikes.stages.2.label>épines de Nergigante</EtherNergiSpikes.stages.2.label>
+  <EtherNergiSpikes.stages.2.description>C'est l'enfer. Je n'arrête pas de me couper constamment sur cette merde.</EtherNergiSpikes.stages.2.description>
+
+  <!-- Nergi Transformation Memories -->
+  <NergiTransformationMemory.stages.0.label>transformé</NergiTransformationMemory.stages.0.label>
+  <NergiTransformationMemory.stages.0.description>Des pointes, des pointes partout... J'ai l'air si edgy...</NergiTransformationMemory.stages.0.description>
+  <NergiTransformationMemory.stages.1.label>transformé</NergiTransformationMemory.stages.1.label>
+  <NergiTransformationMemory.stages.1.description>C'est incroyable ! J'ai l'impression de pouvoir affronter le monde !</NergiTransformationMemory.stages.1.description>
+  <NergiTransformationMemory.stages.2.label>transformé</NergiTransformationMemory.stages.2.label>
+  <NergiTransformationMemory.stages.2.description>Je suis un putain de hérisson avec des ailes et des cornes.</NergiTransformationMemory.stages.2.description>
+  <NergiTransformationMemory.stages.3.label>transformé</NergiTransformationMemory.stages.3.label>
+  <NergiTransformationMemory.stages.3.description>Grrrrrr...</NergiTransformationMemory.stages.3.description>
+
+  <!-- Nergi Reversion Memories -->
+  <NergiRevertedMemory.stages.0.label>redevenu normal</NergiRevertedMemory.stages.0.label>
+  <NergiRevertedMemory.stages.0.description>Enfin... J'en avais marre de déchirer tous mes vêtements avec toutes ces pointes.</NergiRevertedMemory.stages.0.description>
+  <NergiRevertedMemory.stages.1.label>redevenu normal</NergiRevertedMemory.stages.1.label>
+  <NergiRevertedMemory.stages.1.description>Non ! Pourquoi m'enlever ça ?!</NergiRevertedMemory.stages.1.description>
+  <NergiRevertedMemory.stages.2.label>redevenu normal</NergiRevertedMemory.stages.2.label>
+  <NergiRevertedMemory.stages.2.description>Oh quel soulagement. C'était absolument épouvantable...</NergiRevertedMemory.stages.2.description>
+  <NergiRevertedMemory.stages.3.label>redevenu normal</NergiRevertedMemory.stages.3.label>
+  <NergiRevertedMemory.stages.3.description>Aww, j'aimais bien être une manticore.</NergiRevertedMemory.stages.3.description>
+
+</LanguageData>

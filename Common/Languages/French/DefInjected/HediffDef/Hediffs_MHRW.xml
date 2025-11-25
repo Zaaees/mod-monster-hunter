@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Hunter Meal Buff -->
+  <AteHunterMeal.label>fortifié par un repas de chasseur</AteHunterMeal.label>
+  <AteHunterMeal.description>Un bonus fourni en mangeant un repas de chasseur. Augmente les capacités de diverses manières.</AteHunterMeal.description>
+  <AteHunterMeal.labelNoun>bonus de repas de chasseur</AteHunterMeal.labelNoun>
+
+  <!-- Paralysis -->
+  <MHParalisis.label>paralysie</MHParalisis.label>
+  <MHParalisis.labelNoun>paralysie</MHParalisis.labelNoun>
+  <MHParalisis.description>Paralysie causée par du venin.</MHParalisis.description>
+  <MHParalisis.stages.0.label>mineure</MHParalisis.stages.0.label>
+
+  <!-- Kulve Mantle -->
+  <KulveMantle.label>manteau doré</KulveMantle.label>
+  <KulveMantle.labelNoun>manteau doré</KulveMantle.labelNoun>
+  <KulveMantle.description>Un manteau massif d'or semi-solide. Il offre une excellente protection à la créature, mais la ralentit considérablement. Kulve Taroth laissera tomber le manteau si elle est suffisamment enragée.</KulveMantle.description>
+
+  <!-- Delex Sand -->
+  <DelexSand.label>glisse des sables</DelexSand.label>
+  <DelexSand.labelNoun>glisse des sables</DelexSand.labelNoun>
+  <DelexSand.description>Cette créature "nage" actuellement à travers du sable meuble. Cela lui permet de se déplacer à une vitesse beaucoup plus rapide que d'habitude.</DelexSand.description>
+
+  <!-- Waterblight -->
+  <Waterblight.label>fléau aquatique</Waterblight.label>
+  <Waterblight.labelNoun>fléau aquatique</Waterblight.labelNoun>
+  <Waterblight.description>Fléau aquatique ralentissant la cible.</Waterblight.description>
+
+  <!-- Hunting Horn Buffs -->
+  <MHHealthRecovery.label>récupération de santé</MHHealthRecovery.label>
+  <MHHealthRecovery.labelNoun>récupération de santé</MHHealthRecovery.labelNoun>
+  <MHHealthRecovery.description>Mélodie de récupération de santé, restaurant une petite quantité de points de vie sur les parties du corps.</MHHealthRecovery.description>
+
+  <MHDefenseUp.label>défense augmentée</MHDefenseUp.label>
+  <MHDefenseUp.labelNoun>défense augmentée</MHDefenseUp.labelNoun>
+  <MHDefenseUp.description>Mélodie de défense augmentée, réduisant la douleur reçue et augmentant la résistance.</MHDefenseUp.description>
+
+  <MHPoisonNegated.label>poison annulé</MHPoisonNegated.label>
+  <MHPoisonNegated.labelNoun>poison annulé</MHPoisonNegated.labelNoun>
+  <MHPoisonNegated.description>Mélodie d'annulation du poison, éliminant l'accumulation de toxines dans le système sanguin.</MHPoisonNegated.description>
+
+  <MHBlightNegated.label>fléaux annulés</MHBlightNegated.label>
+  <MHBlightNegated.labelNoun>fléaux annulés</MHBlightNegated.labelNoun>
+  <MHBlightNegated.description>Mélodie d'annulation des fléaux, donnant l'immunité contre le feu et augmentant la résistance à la chaleur et au froid.</MHBlightNegated.description>
+
+  <MHSpeedUp.label>vitesse de déplacement augmentée</MHSpeedUp.label>
+  <MHSpeedUp.labelNoun>augmentation de vitesse de déplacement</MHSpeedUp.labelNoun>
+  <MHSpeedUp.description>Mélodie d'augmentation de vitesse de déplacement, augmentant la vitesse de déplacement.</MHSpeedUp.description>
+
+  <MHStaminaUp.label>endurance augmentée</MHStaminaUp.label>
+  <MHStaminaUp.labelNoun>augmentation d'endurance</MHStaminaUp.labelNoun>
+  <MHStaminaUp.description>Mélodie d'augmentation d'endurance, restaurant une partie de la force et réduisant le besoin de sommeil.</MHStaminaUp.description>
+
+  <MHStunNegated.label>étourdissement annulé</MHStunNegated.label>
+  <MHStunNegated.labelNoun>étourdissement annulé</MHStunNegated.labelNoun>
+  <MHStunNegated.description>Mélodie d'annulation de l'étourdissement, donnant l'immunité aux effets d'étourdissement.</MHStunNegated.description>
+
+</LanguageData>

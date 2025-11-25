@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tigrex Face Thoughts -->
+  <EtherTigrexSnout.stages.0.label>visage de Tigrex</EtherTigrexSnout.stages.0.label>
+  <EtherTigrexSnout.stages.0.description>Ces mâchoires sont terriblement puissantes... Aussi, est-ce juste moi ou ma voix est devenue plus grave ?</EtherTigrexSnout.stages.0.description>
+  <EtherTigrexSnout.stages.1.label>visage de Tigrex</EtherTigrexSnout.stages.1.label>
+  <EtherTigrexSnout.stages.1.description>Dois... m'abstenir... de... rugir...</EtherTigrexSnout.stages.1.description>
+  <EtherTigrexSnout.stages.2.label>visage de Tigrex</EtherTigrexSnout.stages.2.label>
+  <EtherTigrexSnout.stages.2.description>AAARRGGHH !!!</EtherTigrexSnout.stages.2.description>
+
+  <!-- Tigrex Ears Thoughts -->
+  <EtherTigrexEar.stages.0.label>oreilles de Tigrex</EtherTigrexEar.stages.0.label>
+  <EtherTigrexEar.stages.0.description>Ça gêne pour mettre un casque...</EtherTigrexEar.stages.0.description>
+  <EtherTigrexEar.stages.1.label>oreilles de Tigrex</EtherTigrexEar.stages.1.label>
+  <EtherTigrexEar.stages.1.description>Je peux tout entendre !</EtherTigrexEar.stages.1.description>
+  <EtherTigrexEar.stages.2.label>oreilles de Tigrex</EtherTigrexEar.stages.2.label>
+  <EtherTigrexEar.stages.2.description>Enlevez-moi ça !</EtherTigrexEar.stages.2.description>
+
+  <!-- Tigrex Tail Thoughts -->
+  <EtherTigrexTail.stages.0.label>queue de Tigrex</EtherTigrexTail.stages.0.label>
+  <EtherTigrexTail.stages.0.description>Cette chose me fait peur... Je suis sûr à 90% que je pourrais casser un arbre si je balançais ça dessus...</EtherTigrexTail.stages.0.description>
+  <EtherTigrexTail.stages.1.label>queue de Tigrex</EtherTigrexTail.stages.1.label>
+  <EtherTigrexTail.stages.1.description>Queue forte et puissante, génial !</EtherTigrexTail.stages.1.description>
+  <EtherTigrexTail.stages.2.label>queue de Tigrex</EtherTigrexTail.stages.2.label>
+  <EtherTigrexTail.stages.2.description>Une fois que j'aurai trouvé celui qui m'a fait ça, je vais voir combien de dégâts ça peut faire à un humain.</EtherTigrexTail.stages.2.description>
+
+  <!-- Tigrex Wings Thoughts -->
+  <EtherTigrexWingMemory.stages.0.label>ailes de Tigrex</EtherTigrexWingMemory.stages.0.label>
+  <EtherTigrexWingMemory.stages.0.description>Comment suis-je censé faire quoi que ce soit avec des ailes massives ?</EtherTigrexWingMemory.stages.0.description>
+  <EtherTigrexWingMemory.stages.1.label>ailes de Tigrex</EtherTigrexWingMemory.stages.1.label>
+  <EtherTigrexWingMemory.stages.1.description>Ailes de dragon ! Attendez, ce sont mes bras donc techniquement... ailes de wyverne je suppose ? ... Des ailes !!</EtherTigrexWingMemory.stages.1.description>
+  <EtherTigrexWingMemory.stages.2.label>ailes de Tigrex</EtherTigrexWingMemory.stages.2.label>
+  <EtherTigrexWingMemory.stages.2.description>Non ! Mes bras !</EtherTigrexWingMemory.stages.2.description>
+
+  <!-- Tigrex Wing Tips Thoughts -->
+  <EtherTigrexWingTipMemory.stages.0.label>pattes-ailes de Tigrex</EtherTigrexWingTipMemory.stages.0.label>
+  <EtherTigrexWingTipMemory.stages.0.description>Je suppose que ça aurait pu être pire. Je peux au moins encore saisir des choses.</EtherTigrexWingTipMemory.stages.0.description>
+  <EtherTigrexWingTipMemory.stages.1.label>pattes-ailes de Tigrex</EtherTigrexWingTipMemory.stages.1.label>
+  <EtherTigrexWingTipMemory.stages.1.description>Adorables pattes-ailes de dragon.</EtherTigrexWingTipMemory.stages.1.description>
+  <EtherTigrexWingTipMemory.stages.2.label>pattes-ailes de Tigrex</EtherTigrexWingTipMemory.stages.2.label>
+  <EtherTigrexWingTipMemory.stages.2.description>Qu'est-il arrivé à mes mains ?!</EtherTigrexWingTipMemory.stages.2.description>
+
+  <!-- Tigrex Transformation Memories -->
+  <TigrexTransformationMemory.stages.0.label>transformé</TigrexTransformationMemory.stages.0.label>
+  <TigrexTransformationMemory.stages.0.description>J'ai une envie troublante de résoudre tous les problèmes en écrasant des trucs...</TigrexTransformationMemory.stages.0.description>
+  <TigrexTransformationMemory.stages.1.label>transformé</TigrexTransformationMemory.stages.1.label>
+  <TigrexTransformationMemory.stages.1.description>Je me sens si fort et puissant !</TigrexTransformationMemory.stages.1.description>
+  <TigrexTransformationMemory.stages.2.label>transformé</TigrexTransformationMemory.stages.2.label>
+  <TigrexTransformationMemory.stages.2.description>Retransformez-moi ou je vous mangerai la face.</TigrexTransformationMemory.stages.2.description>
+  <TigrexTransformationMemory.stages.3.label>transformé</TigrexTransformationMemory.stages.3.label>
+  <TigrexTransformationMemory.stages.3.description>Je voulais devenir musclé de toute façon...</TigrexTransformationMemory.stages.3.description>
+
+  <!-- Tigrex Reversion Memories -->
+  <TigrexRevertedMemory.stages.0.label>redevenu normal</TigrexRevertedMemory.stages.0.label>
+  <TigrexRevertedMemory.stages.0.description>Ouf, je suis content de retrouver ma taille normale.</TigrexRevertedMemory.stages.0.description>
+  <TigrexRevertedMemory.stages.1.label>redevenu normal</TigrexRevertedMemory.stages.1.label>
+  <TigrexRevertedMemory.stages.1.description>Zut, ça va me manquer.</TigrexRevertedMemory.stages.1.description>
+  <TigrexRevertedMemory.stages.2.label>redevenu normal</TigrexRevertedMemory.stages.2.label>
+  <TigrexRevertedMemory.stages.2.description>Je suis redevenu moi !</TigrexRevertedMemory.stages.2.description>
+  <TigrexRevertedMemory.stages.3.label>redevenu normal</TigrexRevertedMemory.stages.3.label>
+  <TigrexRevertedMemory.stages.3.description>De retour à mon moi ennuyeux.</TigrexRevertedMemory.stages.3.description>
+
+</LanguageData>

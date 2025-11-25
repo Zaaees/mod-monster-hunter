@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Deviljho Face Thoughts -->
+  <EtherDeviljhoSnout.stages.0.label>visage de Deviljho</EtherDeviljhoSnout.stages.0.label>
+  <EtherDeviljhoSnout.stages.0.description>Ces dents sont effrayantes. Aussi je bave constamment, beurk.</EtherDeviljhoSnout.stages.0.description>
+  <EtherDeviljhoSnout.stages.1.label>visage de Deviljho</EtherDeviljhoSnout.stages.1.label>
+  <EtherDeviljhoSnout.stages.1.description>Ce regard peut tuer.</EtherDeviljhoSnout.stages.1.description>
+  <EtherDeviljhoSnout.stages.2.label>visage de Deviljho</EtherDeviljhoSnout.stages.2.label>
+  <EtherDeviljhoSnout.stages.2.description>Pourquoi ai-je des dents sur le menton ?! C'est quoi ce-</EtherDeviljhoSnout.stages.2.description>
+
+  <!-- Deviljho Tail Thoughts -->
+  <EtherDeviljhoTail.stages.0.label>queue de Deviljho</EtherDeviljhoTail.stages.0.label>
+  <EtherDeviljhoTail.stages.0.description>J'ai l'impression d'avoir un sac de frappe attaché à mes fesses.</EtherDeviljhoTail.stages.0.description>
+  <EtherDeviljhoTail.stages.1.label>queue de Deviljho</EtherDeviljhoTail.stages.1.label>
+  <EtherDeviljhoTail.stages.1.description>Belle queue épaisse et forte. Qu'est-ce qu'on peut demander de plus ?</EtherDeviljhoTail.stages.1.description>
+  <EtherDeviljhoTail.stages.2.label>queue de Deviljho</EtherDeviljhoTail.stages.2.label>
+  <EtherDeviljhoTail.stages.2.description>Comment diable suis-je censé m'asseoir avec ce truc ?</EtherDeviljhoTail.stages.2.description>
+
+  <!-- Deviljho Transformation Memories -->
+  <DeviljhoTransformationMemory.stages.0.label>transformé</DeviljhoTransformationMemory.stages.0.label>
+  <DeviljhoTransformationMemory.stages.0.description>Je me sens si, si affamé tout le temps...</DeviljhoTransformationMemory.stages.0.description>
+  <DeviljhoTransformationMemory.stages.1.label>transformé</DeviljhoTransformationMemory.stages.1.label>
+  <DeviljhoTransformationMemory.stages.1.description>Eh bien c'est toute une galère !</DeviljhoTransformationMemory.stages.1.description>
+  <DeviljhoTransformationMemory.stages.2.label>transformé</DeviljhoTransformationMemory.stages.2.label>
+  <DeviljhoTransformationMemory.stages.2.description>Retransformez-moi tout de suite, ou je vais vous manger.</DeviljhoTransformationMemory.stages.2.description>
+  <DeviljhoTransformationMemory.stages.3.label>transformé</DeviljhoTransformationMemory.stages.3.label>
+  <DeviljhoTransformationMemory.stages.3.description>J'ai besoin d'un snack...</DeviljhoTransformationMemory.stages.3.description>
+
+  <!-- Deviljho Reversion Memories -->
+  <DeviljhoRevertedMemory.stages.0.label>redevenu normal</DeviljhoRevertedMemory.stages.0.label>
+  <DeviljhoRevertedMemory.stages.0.description>Dieu merci. Je peux enfin penser à autre chose que la nourriture maintenant.</DeviljhoRevertedMemory.stages.0.description>
+  <DeviljhoRevertedMemory.stages.1.label>redevenu normal</DeviljhoRevertedMemory.stages.1.label>
+  <DeviljhoRevertedMemory.stages.1.description>Nooon ! Retransformez-moi !</DeviljhoRevertedMemory.stages.1.description>
+  <DeviljhoRevertedMemory.stages.2.label>redevenu normal</DeviljhoRevertedMemory.stages.2.label>
+  <DeviljhoRevertedMemory.stages.2.description>Je suis redevenu moi ! Oui !</DeviljhoRevertedMemory.stages.2.description>
+  <DeviljhoRevertedMemory.stages.3.label>redevenu normal</DeviljhoRevertedMemory.stages.3.label>
+  <DeviljhoRevertedMemory.stages.3.description>J'ai un peu apprécié ça... Malgré la faim omniprésente.</DeviljhoRevertedMemory.stages.3.description>
+
+</LanguageData>

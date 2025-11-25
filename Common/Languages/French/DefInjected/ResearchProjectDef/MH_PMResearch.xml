@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Research Projects -->
+  <MHMonsterSerums.label>Injecteurs monstrueux</MHMonsterSerums.label>
+  <MHMonsterSerums.description>Une progression naturelle à partir de sérums puissants - vous permet de produire des sérums et des injecteurs de monstres.</MHMonsterSerums.description>
+
+  <MHElderSerums.label>Injecteurs de dragons anciens</MHElderSerums.label>
+  <MHElderSerums.description>La puissance brute des dragons anciens, contenue dans une minuscule seringue.</MHElderSerums.description>
+
+</LanguageData>

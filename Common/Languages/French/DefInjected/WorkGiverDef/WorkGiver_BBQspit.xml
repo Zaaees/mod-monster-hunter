@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- BBQ Spit Work Giver -->
+  <DoBillsBBQSpit.label>cuisiner des repas au BBQ</DoBillsBBQSpit.label>
+  <DoBillsBBQSpit.verb>cuisiner</DoBillsBBQSpit.verb>
+  <DoBillsBBQSpit.gerund>cuisiner au</DoBillsBBQSpit.gerund>
+
+</LanguageData>

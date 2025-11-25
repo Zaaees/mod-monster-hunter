@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <CookMeat.label>cuire de la viande</CookMeat.label>
+  <CookMeat.description>Cuire un morceau de viande.</CookMeat.description>
+  <CookMeat.jobString>Cuisine de la viande.</CookMeat.jobString>
+
+  <CookMealHunter.label>cuisiner un repas de chasseur</CookMealHunter.label>
+  <CookMealHunter.description>Cuisiner un énorme repas de chasseur qui augmente temporairement les statistiques des colons.</CookMealHunter.description>
+  <CookMealHunter.jobString>Cuisine un repas de chasseur.</CookMealHunter.jobString>
+
+</LanguageData>

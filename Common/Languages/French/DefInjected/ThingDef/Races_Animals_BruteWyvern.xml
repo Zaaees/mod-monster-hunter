@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Barroth -->
+  <Barroth.label>Barroth</Barroth.label>
+  <Barroth.description>Cherche des fourmis, son en-cas préféré, et marque son territoire avec de la boue. Attaque ses rivaux avec une charge dévastatrice.</Barroth.description>
+  <Barroth.tools.0.label>patte gauche</Barroth.tools.0.label>
+  <Barroth.tools.1.label>patte droite</Barroth.tools.1.label>
+  <Barroth.tools.3.label>tête</Barroth.tools.3.label>
+
+  <!-- Deviljho -->
+  <Deviljho.label>Deviljho</Deviljho.label>
+  <Deviljho.description>En raison de son métabolisme accéléré, le Deviljho doit constamment chercher des proies. Extrêmement violent, connu pour attraper de grands monstres dans sa mâchoire puissante.</Deviljho.description>
+  <Deviljho.tools.0.label>patte gauche</Deviljho.tools.0.label>
+  <Deviljho.tools.1.label>patte droite</Deviljho.tools.1.label>
+  <Deviljho.tools.3.label>tête</Deviljho.tools.3.label>
+
+  <!-- Jyuratodus -->
+  <Jyuratodus.label>Jyuratodus</Jyuratodus.label>
+  <Jyuratodus.description>Grande wyverne piscine qui habite les marais. Utilise la boue pour capturer ses proies et combat d'autres monstres pour le territoire.</Jyuratodus.description>
+  <Jyuratodus.tools.0.label>patte gauche</Jyuratodus.tools.0.label>
+  <Jyuratodus.tools.1.label>patte droite</Jyuratodus.tools.1.label>
+  <Jyuratodus.tools.3.label>tête</Jyuratodus.tools.3.label>
+
+  <!-- Plesioth -->
+  <Plesioth.label>Plesioth</Plesioth.label>
+  <Plesioth.description>Monstres bipèdes avec une structure corporelle de wyverne. Ont des pattes palmées et une queue en forme de pagaie, couverts d'écailles brillantes ressemblant à des poissons.</Plesioth.description>
+  <Plesioth.tools.0.label>patte gauche</Plesioth.tools.0.label>
+  <Plesioth.tools.1.label>patte droite</Plesioth.tools.1.label>
+  <Plesioth.tools.3.label>tête</Plesioth.tools.3.label>
+  <Plesioth.tools.4.label>coup de hanche</Plesioth.tools.4.label>
+
+  <!-- Lavasioth -->
+  <Lavasioth.label>Lavasioth</Lavasioth.label>
+  <Lavasioth.description>Les Lavasioth utilisent la lave en fusion comme armure. Extrêmement agressifs et attaqueront sans préjudice jusqu'à ce que la menace soit éliminée.</Lavasioth.description>
+  <Lavasioth.tools.0.label>patte gauche</Lavasioth.tools.0.label>
+  <Lavasioth.tools.1.label>patte droite</Lavasioth.tools.1.label>
+  <Lavasioth.tools.3.label>tête</Lavasioth.tools.3.label>
+
+  <!-- Anjanath -->
+  <Anjanath.label>Anjanath</Anjanath.label>
+  <Anjanath.description>L'Anjanath patrouille la forêt à la recherche de son repas préféré, l'Aptonoth. Ce monstre belliqueux attaquera n'importe quoi sans la moindre provocation.</Anjanath.description>
+  <Anjanath.tools.0.label>patte gauche</Anjanath.tools.0.label>
+  <Anjanath.tools.1.label>patte droite</Anjanath.tools.1.label>
+  <Anjanath.tools.3.label>tête</Anjanath.tools.3.label>
+
+  <!-- Glavenus -->
+  <Glavenus.label>Glavenus</Glavenus.label>
+  <Glavenus.description>Grande wyverne brute avec des écailles rouge foncé. Sa caractéristique principale est son énorme queue en forme d'épée qu'elle peut enflammer.</Glavenus.description>
+  <Glavenus.tools.0.label>patte gauche</Glavenus.tools.0.label>
+  <Glavenus.tools.1.label>patte droite</Glavenus.tools.1.label>
+  <Glavenus.tools.3.label>tête</Glavenus.tools.3.label>
+  <Glavenus.tools.4.label>queue</Glavenus.tools.4.label>
+
+  <!-- Banbaro -->
+  <Banbaro.label>Banbaro</Banbaro.label>
+  <Banbaro.description>Grande wyverne brute massive. La plupart de son corps est couvert d'une fourrure blanche épaisse. Ses cornes géantes sont sa caractéristique distinctive.</Banbaro.description>
+  <Banbaro.tools.1.label>tête</Banbaro.tools.1.label>
+
+  <!-- Brachydios -->
+  <Brachydios.label>Brachydios</Brachydios.label>
+  <Brachydios.description>Cette wyverne brute bleu-marine utilise sa salive pour amorcer le slime collant recouvrant ses bras massifs, le rendant hautement explosif.</Brachydios.description>
+  <Brachydios.tools.1.label>tête</Brachydios.tools.1.label>
+  <Brachydios.tools.2.label>bras gauche</Brachydios.tools.2.label>
+  <Brachydios.tools.3.label>bras droit</Brachydios.tools.3.label>
+
+</LanguageData>

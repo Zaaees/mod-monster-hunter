@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Animal Classes -->
+  <MHMonsters.label>monstres</MHMonsters.label>
+
+  <MHWyverns.label>wyvernes ailées</MHWyverns.label>
+
+  <MHDrakes.label>wyvernes quadrupèdes</MHDrakes.label>
+
+  <MHRaptors.label>wyvernes-oiseaux</MHRaptors.label>
+
+</LanguageData>

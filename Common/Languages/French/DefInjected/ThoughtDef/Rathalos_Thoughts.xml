@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rathalos Face Thoughts -->
+  <EtherRathalosSnout.stages.0.label>visage de Rathalos</EtherRathalosSnout.stages.0.label>
+  <EtherRathalosSnout.stages.0.description>Ça rend un peu difficile de voir.</EtherRathalosSnout.stages.0.description>
+  <EtherRathalosSnout.stages.1.label>visage de Rathalos</EtherRathalosSnout.stages.1.label>
+  <EtherRathalosSnout.stages.1.description>Grrrr... Héhé.</EtherRathalosSnout.stages.1.description>
+  <EtherRathalosSnout.stages.2.label>visage de Rathalos</EtherRathalosSnout.stages.2.label>
+  <EtherRathalosSnout.stages.2.description>Non ! Mon visage !</EtherRathalosSnout.stages.2.description>
+
+  <!-- Rathalos Horns Thoughts -->
+  <EtherRathalosHorns.stages.0.label>cornes de Rathalos</EtherRathalosHorns.stages.0.label>
+  <EtherRathalosHorns.stages.0.description>Ça va rendre le port de chapeaux un peu compliqué.</EtherRathalosHorns.stages.0.description>
+  <EtherRathalosHorns.stages.1.label>cornes de Rathalos</EtherRathalosHorns.stages.1.label>
+  <EtherRathalosHorns.stages.1.description>C'est un peu comme une couronne ! Je suis un roi !</EtherRathalosHorns.stages.1.description>
+  <EtherRathalosHorns.stages.2.label>cornes de Rathalos</EtherRathalosHorns.stages.2.label>
+  <EtherRathalosHorns.stages.2.description>Ces lames de mâchoire sont si gênantes... Et les cornes... Et les oreilles... Rien de tout ça n'est bien.</EtherRathalosHorns.stages.2.description>
+
+  <!-- Rathalos Tail Thoughts -->
+  <EtherRathalosTail.stages.0.label>queue de Rathalos</EtherRathalosTail.stages.0.label>
+  <EtherRathalosTail.stages.0.description>Je dois faire attention à ne frapper personne avec ça. Personne que j'aime en tout cas.</EtherRathalosTail.stages.0.description>
+  <EtherRathalosTail.stages.1.label>queue de Rathalos</EtherRathalosTail.stages.1.label>
+  <EtherRathalosTail.stages.1.description>Queue de dragon, génial ouais !</EtherRathalosTail.stages.1.description>
+  <EtherRathalosTail.stages.2.label>queue de Rathalos</EtherRathalosTail.stages.2.label>
+  <EtherRathalosTail.stages.2.description>Des pointes ? Pourquoi ça doit être des pointes ?</EtherRathalosTail.stages.2.description>
+
+  <!-- Rathalos Crest Thoughts -->
+  <EtherRathalosCrest.stages.0.label>crête blindée</EtherRathalosCrest.stages.0.label>
+  <EtherRathalosCrest.stages.0.description>C'est bizarre, mais bon, je prends la protection supplémentaire contre les balles n'importe quand.</EtherRathalosCrest.stages.0.description>
+  <EtherRathalosCrest.stages.1.label>crête blindée</EtherRathalosCrest.stages.1.label>
+  <EtherRathalosCrest.stages.1.description>Armure entièrement naturelle ! Attendez, est-ce naturel si c'est une créature fantastique ?</EtherRathalosCrest.stages.1.description>
+  <EtherRathalosCrest.stages.2.label>crête blindée</EtherRathalosCrest.stages.2.label>
+  <EtherRathalosCrest.stages.2.description>De toutes les choses, ce n'est pas si mal. Je n'aime toujours pas ça cependant.</EtherRathalosCrest.stages.2.description>
+
+  <!-- Rathalos Wings Thoughts -->
+  <EtherRathalosWingMemory.stages.0.label>ailes de Rathalos</EtherRathalosWingMemory.stages.0.label>
+  <EtherRathalosWingMemory.stages.0.description>Comment suis-je censé faire quoi que ce soit avec des ailes massives ?</EtherRathalosWingMemory.stages.0.description>
+  <EtherRathalosWingMemory.stages.1.label>ailes de Rathalos</EtherRathalosWingMemory.stages.1.label>
+  <EtherRathalosWingMemory.stages.1.description>Ailes de dragon ! Attendez, ce sont mes bras donc techniquement... ailes de wyverne je suppose ? ... Des ailes !!</EtherRathalosWingMemory.stages.1.description>
+  <EtherRathalosWingMemory.stages.2.label>ailes de Rathalos</EtherRathalosWingMemory.stages.2.label>
+  <EtherRathalosWingMemory.stages.2.description>Non ! Mes bras !</EtherRathalosWingMemory.stages.2.description>
+
+  <!-- Rathalos Wing Tips Thoughts -->
+  <EtherRathalosWingTipMemory.stages.0.label>serres d'ailes de Rathalos</EtherRathalosWingTipMemory.stages.0.label>
+  <EtherRathalosWingTipMemory.stages.0.description>C'est trop bizarre, je n'aime pas ça du tout.</EtherRathalosWingTipMemory.stages.0.description>
+  <EtherRathalosWingTipMemory.stages.1.label>serres d'ailes de Rathalos</EtherRathalosWingTipMemory.stages.1.label>
+  <EtherRathalosWingTipMemory.stages.1.description>Ça va rendre littéralement tout difficile, mais qui s'en soucie !</EtherRathalosWingTipMemory.stages.1.description>
+  <EtherRathalosWingTipMemory.stages.2.label>serres d'ailes de Rathalos</EtherRathalosWingTipMemory.stages.2.label>
+  <EtherRathalosWingTipMemory.stages.2.description>J'ai l'air d'une chauve-souris humaine bizarre ou quelque chose comme ça, s'il vous plaît arrêtez ça.</EtherRathalosWingTipMemory.stages.2.description>
+
+  <!-- Rathalos Transformation Memories -->
+  <RathalosTransformationMemory.stages.0.label>transformé</RathalosTransformationMemory.stages.0.label>
+  <RathalosTransformationMemory.stages.0.description>Suis-je... Un dragon ?</RathalosTransformationMemory.stages.0.description>
+  <RathalosTransformationMemory.stages.1.label>transformé</RathalosTransformationMemory.stages.1.label>
+  <RathalosTransformationMemory.stages.1.description>Oh mon dieu c'est vraiment génial !!</RathalosTransformationMemory.stages.1.description>
+  <RathalosTransformationMemory.stages.2.label>transformé</RathalosTransformationMemory.stages.2.label>
+  <RathalosTransformationMemory.stages.2.description>AAAAAAAA !!!</RathalosTransformationMemory.stages.2.description>
+  <RathalosTransformationMemory.stages.3.label>transformé</RathalosTransformationMemory.stages.3.label>
+  <RathalosTransformationMemory.stages.3.description>Look menaçant... J'adore.</RathalosTransformationMemory.stages.3.description>
+
+  <!-- Rathalos Reversion Memories -->
+  <RathalosRevertedMemory.stages.0.label>redevenu normal</RathalosRevertedMemory.stages.0.label>
+  <RathalosRevertedMemory.stages.0.description>Ouf, je suis content de retrouver ma taille normale.</RathalosRevertedMemory.stages.0.description>
+  <RathalosRevertedMemory.stages.1.label>redevenu normal</RathalosRevertedMemory.stages.1.label>
+  <RathalosRevertedMemory.stages.1.description>Zut, ça va me manquer.</RathalosRevertedMemory.stages.1.description>
+  <RathalosRevertedMemory.stages.2.label>redevenu normal</RathalosRevertedMemory.stages.2.label>
+  <RathalosRevertedMemory.stages.2.description>Je suis redevenu moi !</RathalosRevertedMemory.stages.2.description>
+  <RathalosRevertedMemory.stages.3.label>redevenu normal</RathalosRevertedMemory.stages.3.label>
+  <RathalosRevertedMemory.stages.3.description>De retour à mon moi ennuyeux.</RathalosRevertedMemory.stages.3.description>
+
+</LanguageData>
